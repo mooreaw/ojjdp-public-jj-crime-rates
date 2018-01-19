@@ -1,0 +1,3745 @@
+state,reporting_coverage,index,rate,year
+United States,72,Violent Crime Index,330,2e3
+Alabama,71,Violent Crime Index,149,2e3
+Alaska,91,Violent Crime Index,243,2e3
+Arizona,91,Violent Crime Index,294,2e3
+Arkansas,86,Violent Crime Index,183,2e3
+California,100,Violent Crime Index,405,2e3
+Colorado,76,Violent Crime Index,238,2e3
+Connecticut,76,Violent Crime Index,279,2e3
+Delaware,50,Violent Crime Index,1053,2e3
+District of Columbia,0,Violent Crime Index,NA,2e3
+Florida,98,Violent Crime Index,612,2e3
+Georgia,48,Violent Crime Index,272,2e3
+Hawaii,88,Violent Crime Index,247,2e3
+Idaho,99,Violent Crime Index,176,2e3
+Illinois,23,Violent Crime Index,939,2e3
+Indiana,64,Violent Crime Index,350,2e3
+Iowa,88,Violent Crime Index,244,2e3
+Kansas,0,Violent Crime Index,NA,2e3
+Kentucky,6,Violent Crime Index,206,2e3
+Louisiana,69,Violent Crime Index,408,2e3
+Maine,98,Violent Crime Index,121,2e3
+Maryland,84,Violent Crime Index,528,2e3
+Massachusetts,76,Violent Crime Index,449,2e3
+Michigan,85,Violent Crime Index,149,2e3
+Minnesota,94,Violent Crime Index,283,2e3
+Mississippi,50,Violent Crime Index,147,2e3
+Missouri,52,Violent Crime Index,329,2e3
+Montana,38,Violent Crime Index,379,2e3
+Nebraska,91,Violent Crime Index,118,2e3
+Nevada,98,Violent Crime Index,254,2e3
+New Hampshire,59,Violent Crime Index,96,2e3
+New Jersey,97,Violent Crime Index,360,2e3
+New Mexico,63,Violent Crime Index,281,2e3
+New York,35,Violent Crime Index,315,2e3
+North Carolina,79,Violent Crime Index,317,2e3
+North Dakota,89,Violent Crime Index,32,2e3
+Ohio,52,Violent Crime Index,218,2e3
+Oklahoma,100,Violent Crime Index,248,2e3
+Oregon,81,Violent Crime Index,201,2e3
+Pennsylvania,75,Violent Crime Index,462,2e3
+Rhode Island,95,Violent Crime Index,274,2e3
+South Carolina,28,Violent Crime Index,322,2e3
+South Dakota,79,Violent Crime Index,138,2e3
+Tennessee,69,Violent Crime Index,176,2e3
+Texas,96,Violent Crime Index,215,2e3
+Utah,70,Violent Crime Index,213,2e3
+Vermont,81,Violent Crime Index,57,2e3
+Virginia,73,Violent Crime Index,158,2e3
+Washington,69,Violent Crime Index,328,2e3
+West Virginia,49,Violent Crime Index,85,2e3
+Wisconsin,0,Violent Crime Index,NA,2e3
+Wyoming,100,Violent Crime Index,159,2e3
+United States,72,Property Crime Index,1686,2e3
+Alabama,71,Property Crime Index,822,2e3
+Alaska,91,Property Crime Index,2565,2e3
+Arizona,91,Property Crime Index,2185,2e3
+Arkansas,86,Property Crime Index,1477,2e3
+California,100,Property Crime Index,1411,2e3
+Colorado,76,Property Crime Index,2628,2e3
+Connecticut,76,Property Crime Index,1555,2e3
+Delaware,50,Property Crime Index,3571,2e3
+District of Columbia,0,Property Crime Index,NA,2e3
+Florida,98,Property Crime Index,2443,2e3
+Georgia,48,Property Crime Index,1381,2e3
+Hawaii,88,Property Crime Index,1744,2e3
+Idaho,99,Property Crime Index,2461,2e3
+Illinois,23,Property Crime Index,2763,2e3
+Indiana,64,Property Crime Index,1722,2e3
+Iowa,88,Property Crime Index,1943,2e3
+Kansas,0,Property Crime Index,NA,2e3
+Kentucky,6,Property Crime Index,1984,2e3
+Louisiana,69,Property Crime Index,1810,2e3
+Maine,98,Property Crime Index,1907,2e3
+Maryland,84,Property Crime Index,1904,2e3
+Massachusetts,76,Property Crime Index,686,2e3
+Michigan,85,Property Crime Index,1092,2e3
+Minnesota,94,Property Crime Index,2174,2e3
+Mississippi,50,Property Crime Index,1945,2e3
+Missouri,52,Property Crime Index,2229,2e3
+Montana,38,Property Crime Index,1883,2e3
+Nebraska,91,Property Crime Index,2483,2e3
+Nevada,98,Property Crime Index,2409,2e3
+New Hampshire,59,Property Crime Index,1022,2e3
+New Jersey,97,Property Crime Index,1269,2e3
+New Mexico,63,Property Crime Index,1467,2e3
+New York,35,Property Crime Index,1437,2e3
+North Carolina,79,Property Crime Index,1697,2e3
+North Dakota,89,Property Crime Index,2220,2e3
+Ohio,52,Property Crime Index,1488,2e3
+Oklahoma,100,Property Crime Index,1675,2e3
+Oregon,81,Property Crime Index,2503,2e3
+Pennsylvania,75,Property Crime Index,1451,2e3
+Rhode Island,95,Property Crime Index,1430,2e3
+South Carolina,28,Property Crime Index,1700,2e3
+South Dakota,79,Property Crime Index,2220,2e3
+Tennessee,69,Property Crime Index,1044,2e3
+Texas,96,Property Crime Index,1553,2e3
+Utah,70,Property Crime Index,2888,2e3
+Vermont,81,Property Crime Index,926,2e3
+Virginia,73,Property Crime Index,1006,2e3
+Washington,69,Property Crime Index,2933,2e3
+West Virginia,49,Property Crime Index,884,2e3
+Wisconsin,0,Property Crime Index,NA,2e3
+Wyoming,100,Property Crime Index,1895,2e3
+United States,72,Drug abuse,649,2e3
+Alabama,71,Drug abuse,264,2e3
+Alaska,91,Drug abuse,517,2e3
+Arizona,91,Drug abuse,894,2e3
+Arkansas,86,Drug abuse,321,2e3
+California,100,Drug abuse,583,2e3
+Colorado,76,Drug abuse,805,2e3
+Connecticut,76,Drug abuse,671,2e3
+Delaware,50,Drug abuse,1387,2e3
+District of Columbia,0,Drug abuse,NA,2e3
+Florida,98,Drug abuse,884,2e3
+Georgia,48,Drug abuse,490,2e3
+Hawaii,88,Drug abuse,422,2e3
+Idaho,99,Drug abuse,483,2e3
+Illinois,23,Drug abuse,2868,2e3
+Indiana,64,Drug abuse,523,2e3
+Iowa,88,Drug abuse,413,2e3
+Kansas,0,Drug abuse,NA,2e3
+Kentucky,6,Drug abuse,623,2e3
+Louisiana,69,Drug abuse,568,2e3
+Maine,98,Drug abuse,619,2e3
+Maryland,84,Drug abuse,1281,2e3
+Massachusetts,76,Drug abuse,419,2e3
+Michigan,85,Drug abuse,342,2e3
+Minnesota,94,Drug abuse,889,2e3
+Mississippi,50,Drug abuse,617,2e3
+Missouri,52,Drug abuse,789,2e3
+Montana,38,Drug abuse,333,2e3
+Nebraska,91,Drug abuse,719,2e3
+Nevada,98,Drug abuse,777,2e3
+New Hampshire,59,Drug abuse,690,2e3
+New Jersey,97,Drug abuse,876,2e3
+New Mexico,63,Drug abuse,581,2e3
+New York,35,Drug abuse,635,2e3
+North Carolina,79,Drug abuse,507,2e3
+North Dakota,89,Drug abuse,354,2e3
+Ohio,52,Drug abuse,422,2e3
+Oklahoma,100,Drug abuse,500,2e3
+Oregon,81,Drug abuse,653,2e3
+Pennsylvania,75,Drug abuse,557,2e3
+Rhode Island,95,Drug abuse,641,2e3
+South Carolina,28,Drug abuse,682,2e3
+South Dakota,79,Drug abuse,675,2e3
+Tennessee,69,Drug abuse,423,2e3
+Texas,96,Drug abuse,601,2e3
+Utah,70,Drug abuse,580,2e3
+Vermont,81,Drug abuse,312,2e3
+Virginia,73,Drug abuse,398,2e3
+Washington,69,Drug abuse,598,2e3
+West Virginia,49,Drug abuse,185,2e3
+Wisconsin,0,Drug abuse,NA,2e3
+Wyoming,100,Drug abuse,765,2e3
+United States,72,Weapons,116,2e3
+Alabama,71,Weapons,59,2e3
+Alaska,91,Weapons,101,2e3
+Arizona,91,Weapons,81,2e3
+Arkansas,86,Weapons,85,2e3
+California,100,Weapons,160,2e3
+Colorado,76,Weapons,188,2e3
+Connecticut,76,Weapons,106,2e3
+Delaware,50,Weapons,262,2e3
+District of Columbia,0,Weapons,NA,2e3
+Florida,98,Weapons,109,2e3
+Georgia,48,Weapons,115,2e3
+Hawaii,88,Weapons,45,2e3
+Idaho,99,Weapons,132,2e3
+Illinois,23,Weapons,427,2e3
+Indiana,64,Weapons,44,2e3
+Iowa,88,Weapons,47,2e3
+Kansas,0,Weapons,NA,2e3
+Kentucky,6,Weapons,73,2e3
+Louisiana,69,Weapons,89,2e3
+Maine,98,Weapons,28,2e3
+Maryland,84,Weapons,188,2e3
+Massachusetts,76,Weapons,39,2e3
+Michigan,85,Weapons,56,2e3
+Minnesota,94,Weapons,153,2e3
+Mississippi,50,Weapons,93,2e3
+Missouri,52,Weapons,125,2e3
+Montana,38,Weapons,58,2e3
+Nebraska,91,Weapons,106,2e3
+Nevada,98,Weapons,191,2e3
+New Hampshire,59,Weapons,34,2e3
+New Jersey,97,Weapons,172,2e3
+New Mexico,63,Weapons,143,2e3
+New York,35,Weapons,96,2e3
+North Carolina,79,Weapons,159,2e3
+North Dakota,89,Weapons,40,2e3
+Ohio,52,Weapons,86,2e3
+Oklahoma,100,Weapons,90,2e3
+Oregon,81,Weapons,94,2e3
+Pennsylvania,75,Weapons,100,2e3
+Rhode Island,95,Weapons,108,2e3
+South Carolina,28,Weapons,118,2e3
+South Dakota,79,Weapons,93,2e3
+Tennessee,69,Weapons,65,2e3
+Texas,96,Weapons,69,2e3
+Utah,70,Weapons,143,2e3
+Vermont,81,Weapons,15,2e3
+Virginia,73,Weapons,102,2e3
+Washington,69,Weapons,153,2e3
+West Virginia,49,Weapons,27,2e3
+Wisconsin,0,Weapons,NA,2e3
+Wyoming,100,Weapons,88,2e3
+United States,73,Violent Crime Index,320,2001
+Alabama,75,Violent Crime Index,127,2001
+Alaska,90,Violent Crime Index,268,2001
+Arizona,95,Violent Crime Index,274,2001
+Arkansas,71,Violent Crime Index,114,2001
+California,100,Violent Crime Index,416,2001
+Colorado,78,Violent Crime Index,247,2001
+Connecticut,90,Violent Crime Index,326,2001
+Delaware,90,Violent Crime Index,392,2001
+District of Columbia,0,Violent Crime Index,NA,2001
+Florida,100,Violent Crime Index,607,2001
+Georgia,48,Violent Crime Index,286,2001
+Hawaii,88,Violent Crime Index,212,2001
+Idaho,92,Violent Crime Index,152,2001
+Illinois,23,Violent Crime Index,931,2001
+Indiana,69,Violent Crime Index,371,2001
+Iowa,70,Violent Crime Index,186,2001
+Kansas,0,Violent Crime Index,NA,2001
+Kentucky,22,Violent Crime Index,242,2001
+Louisiana,72,Violent Crime Index,403,2001
+Maine,97,Violent Crime Index,107,2001
+Maryland,71,Violent Crime Index,531,2001
+Massachusetts,81,Violent Crime Index,418,2001
+Michigan,83,Violent Crime Index,149,2001
+Minnesota,73,Violent Crime Index,152,2001
+Mississippi,41,Violent Crime Index,110,2001
+Missouri,82,Violent Crime Index,284,2001
+Montana,57,Violent Crime Index,176,2001
+Nebraska,78,Violent Crime Index,114,2001
+Nevada,98,Violent Crime Index,266,2001
+New Hampshire,53,Violent Crime Index,117,2001
+New Jersey,96,Violent Crime Index,366,2001
+New Mexico,46,Violent Crime Index,302,2001
+New York,32,Violent Crime Index,290,2001
+North Carolina,91,Violent Crime Index,317,2001
+North Dakota,86,Violent Crime Index,53,2001
+Ohio,53,Violent Crime Index,213,2001
+Oklahoma,94,Violent Crime Index,248,2001
+Oregon,92,Violent Crime Index,178,2001
+Pennsylvania,79,Violent Crime Index,411,2001
+Rhode Island,91,Violent Crime Index,250,2001
+South Carolina,30,Violent Crime Index,410,2001
+South Dakota,48,Violent Crime Index,160,2001
+Tennessee,80,Violent Crime Index,188,2001
+Texas,97,Violent Crime Index,199,2001
+Utah,76,Violent Crime Index,117,2001
+Vermont,84,Violent Crime Index,66,2001
+Virginia,77,Violent Crime Index,131,2001
+Washington,79,Violent Crime Index,272,2001
+West Virginia,49,Violent Crime Index,37,2001
+Wisconsin,17,Violent Crime Index,741,2001
+Wyoming,98,Violent Crime Index,165,2001
+United States,73,Property Crime Index,1572,2001
+Alabama,75,Property Crime Index,888,2001
+Alaska,90,Property Crime Index,2121,2001
+Arizona,95,Property Crime Index,2036,2001
+Arkansas,71,Property Crime Index,1269,2001
+California,100,Property Crime Index,1326,2001
+Colorado,78,Property Crime Index,2358,2001
+Connecticut,90,Property Crime Index,1389,2001
+Delaware,90,Property Crime Index,2215,2001
+District of Columbia,0,Property Crime Index,NA,2001
+Florida,100,Property Crime Index,2336,2001
+Georgia,48,Property Crime Index,1423,2001
+Hawaii,88,Property Crime Index,1691,2001
+Idaho,92,Property Crime Index,2322,2001
+Illinois,23,Property Crime Index,2598,2001
+Indiana,69,Property Crime Index,1481,2001
+Iowa,70,Property Crime Index,1662,2001
+Kansas,0,Property Crime Index,NA,2001
+Kentucky,22,Property Crime Index,1675,2001
+Louisiana,72,Property Crime Index,2161,2001
+Maine,97,Property Crime Index,1964,2001
+Maryland,71,Property Crime Index,1903,2001
+Massachusetts,81,Property Crime Index,706,2001
+Michigan,83,Property Crime Index,1160,2001
+Minnesota,73,Property Crime Index,1824,2001
+Mississippi,41,Property Crime Index,1747,2001
+Missouri,82,Property Crime Index,1754,2001
+Montana,57,Property Crime Index,2209,2001
+Nebraska,78,Property Crime Index,2297,2001
+Nevada,98,Property Crime Index,2227,2001
+New Hampshire,53,Property Crime Index,1127,2001
+New Jersey,96,Property Crime Index,1095,2001
+New Mexico,46,Property Crime Index,1368,2001
+New York,32,Property Crime Index,1380,2001
+North Carolina,91,Property Crime Index,1684,2001
+North Dakota,86,Property Crime Index,2074,2001
+Ohio,53,Property Crime Index,1331,2001
+Oklahoma,94,Property Crime Index,1540,2001
+Oregon,92,Property Crime Index,2110,2001
+Pennsylvania,79,Property Crime Index,1386,2001
+Rhode Island,91,Property Crime Index,1363,2001
+South Carolina,30,Property Crime Index,1411,2001
+South Dakota,48,Property Crime Index,2688,2001
+Tennessee,80,Property Crime Index,988,2001
+Texas,97,Property Crime Index,1424,2001
+Utah,76,Property Crime Index,2461,2001
+Vermont,84,Property Crime Index,771,2001
+Virginia,77,Property Crime Index,880,2001
+Washington,79,Property Crime Index,2260,2001
+West Virginia,49,Property Crime Index,462,2001
+Wisconsin,17,Property Crime Index,3184,2001
+Wyoming,98,Property Crime Index,1930,2001
+United States,73,Drug abuse,636,2001
+Alabama,75,Drug abuse,265,2001
+Alaska,90,Drug abuse,487,2001
+Arizona,95,Drug abuse,936,2001
+Arkansas,71,Drug abuse,381,2001
+California,100,Drug abuse,583,2001
+Colorado,78,Drug abuse,811,2001
+Connecticut,90,Drug abuse,701,2001
+Delaware,90,Drug abuse,465,2001
+District of Columbia,0,Drug abuse,NA,2001
+Florida,100,Drug abuse,857,2001
+Georgia,48,Drug abuse,468,2001
+Hawaii,88,Drug abuse,467,2001
+Idaho,92,Drug abuse,535,2001
+Illinois,23,Drug abuse,2827,2001
+Indiana,69,Drug abuse,445,2001
+Iowa,70,Drug abuse,361,2001
+Kansas,0,Drug abuse,NA,2001
+Kentucky,22,Drug abuse,700,2001
+Louisiana,72,Drug abuse,602,2001
+Maine,97,Drug abuse,581,2001
+Maryland,71,Drug abuse,1538,2001
+Massachusetts,81,Drug abuse,434,2001
+Michigan,83,Drug abuse,374,2001
+Minnesota,73,Drug abuse,578,2001
+Mississippi,41,Drug abuse,586,2001
+Missouri,82,Drug abuse,621,2001
+Montana,57,Drug abuse,194,2001
+Nebraska,78,Drug abuse,804,2001
+Nevada,98,Drug abuse,653,2001
+New Hampshire,53,Drug abuse,830,2001
+New Jersey,96,Drug abuse,828,2001
+New Mexico,46,Drug abuse,716,2001
+New York,32,Drug abuse,704,2001
+North Carolina,91,Drug abuse,474,2001
+North Dakota,86,Drug abuse,389,2001
+Ohio,53,Drug abuse,419,2001
+Oklahoma,94,Drug abuse,444,2001
+Oregon,92,Drug abuse,575,2001
+Pennsylvania,79,Drug abuse,589,2001
+Rhode Island,91,Drug abuse,597,2001
+South Carolina,30,Drug abuse,643,2001
+South Dakota,48,Drug abuse,861,2001
+Tennessee,80,Drug abuse,448,2001
+Texas,97,Drug abuse,592,2001
+Utah,76,Drug abuse,558,2001
+Vermont,84,Drug abuse,312,2001
+Virginia,77,Drug abuse,378,2001
+Washington,79,Drug abuse,548,2001
+West Virginia,49,Drug abuse,108,2001
+Wisconsin,17,Drug abuse,977,2001
+Wyoming,98,Drug abuse,951,2001
+United States,73,Weapons,115,2001
+Alabama,75,Weapons,34,2001
+Alaska,90,Weapons,97,2001
+Arizona,95,Weapons,78,2001
+Arkansas,71,Weapons,73,2001
+California,100,Weapons,162,2001
+Colorado,78,Weapons,156,2001
+Connecticut,90,Weapons,93,2001
+Delaware,90,Weapons,277,2001
+District of Columbia,0,Weapons,NA,2001
+Florida,100,Weapons,113,2001
+Georgia,48,Weapons,119,2001
+Hawaii,88,Weapons,28,2001
+Idaho,92,Weapons,114,2001
+Illinois,23,Weapons,446,2001
+Indiana,69,Weapons,41,2001
+Iowa,70,Weapons,36,2001
+Kansas,0,Weapons,NA,2001
+Kentucky,22,Weapons,65,2001
+Louisiana,72,Weapons,91,2001
+Maine,97,Weapons,51,2001
+Maryland,71,Weapons,218,2001
+Massachusetts,81,Weapons,41,2001
+Michigan,83,Weapons,59,2001
+Minnesota,73,Weapons,79,2001
+Mississippi,41,Weapons,90,2001
+Missouri,82,Weapons,115,2001
+Montana,57,Weapons,25,2001
+Nebraska,78,Weapons,102,2001
+Nevada,98,Weapons,157,2001
+New Hampshire,53,Weapons,37,2001
+New Jersey,96,Weapons,187,2001
+New Mexico,46,Weapons,188,2001
+New York,32,Weapons,96,2001
+North Carolina,91,Weapons,164,2001
+North Dakota,86,Weapons,56,2001
+Ohio,53,Weapons,85,2001
+Oklahoma,94,Weapons,67,2001
+Oregon,92,Weapons,84,2001
+Pennsylvania,79,Weapons,99,2001
+Rhode Island,91,Weapons,123,2001
+South Carolina,30,Weapons,142,2001
+South Dakota,48,Weapons,77,2001
+Tennessee,80,Weapons,99,2001
+Texas,97,Weapons,63,2001
+Utah,76,Weapons,112,2001
+Vermont,84,Weapons,21,2001
+Virginia,77,Weapons,86,2001
+Washington,79,Weapons,118,2001
+West Virginia,49,Weapons,10,2001
+Wisconsin,17,Weapons,499,2001
+Wyoming,98,Weapons,116,2001
+United States,77,Violent Crime Index,295,2002
+Alabama,84,Violent Crime Index,138,2002
+Alaska,91,Violent Crime Index,257,2002
+Arizona,95,Violent Crime Index,259,2002
+Arkansas,52,Violent Crime Index,169,2002
+California,99,Violent Crime Index,365,2002
+Colorado,81,Violent Crime Index,231,2002
+Connecticut,70,Violent Crime Index,197,2002
+Delaware,85,Violent Crime Index,330,2002
+District of Columbia,0,Violent Crime Index,NA,2002
+Florida,99,Violent Crime Index,517,2002
+Georgia,49,Violent Crime Index,263,2002
+Hawaii,77,Violent Crime Index,286,2002
+Idaho,97,Violent Crime Index,157,2002
+Illinois,23,Violent Crime Index,898,2002
+Indiana,69,Violent Crime Index,337,2002
+Iowa,91,Violent Crime Index,244,2002
+Kansas,49,Violent Crime Index,168,2002
+Kentucky,23,Violent Crime Index,291,2002
+Louisiana,71,Violent Crime Index,398,2002
+Maine,100,Violent Crime Index,99,2002
+Maryland,59,Violent Crime Index,299,2002
+Massachusetts,73,Violent Crime Index,428,2002
+Michigan,96,Violent Crime Index,172,2002
+Minnesota,83,Violent Crime Index,184,2002
+Mississippi,54,Violent Crime Index,120,2002
+Missouri,84,Violent Crime Index,298,2002
+Montana,66,Violent Crime Index,157,2002
+Nebraska,91,Violent Crime Index,107,2002
+Nevada,71,Violent Crime Index,221,2002
+New Hampshire,64,Violent Crime Index,118,2002
+New Jersey,97,Violent Crime Index,354,2002
+New Mexico,64,Violent Crime Index,307,2002
+New York,33,Violent Crime Index,314,2002
+North Carolina,83,Violent Crime Index,310,2002
+North Dakota,90,Violent Crime Index,61,2002
+Ohio,57,Violent Crime Index,185,2002
+Oklahoma,98,Violent Crime Index,243,2002
+Oregon,84,Violent Crime Index,133,2002
+Pennsylvania,85,Violent Crime Index,398,2002
+Rhode Island,98,Violent Crime Index,257,2002
+South Carolina,54,Violent Crime Index,407,2002
+South Dakota,69,Violent Crime Index,80,2002
+Tennessee,85,Violent Crime Index,195,2002
+Texas,98,Violent Crime Index,194,2002
+Utah,95,Violent Crime Index,175,2002
+Vermont,86,Violent Crime Index,47,2002
+Virginia,86,Violent Crime Index,128,2002
+Washington,84,Violent Crime Index,230,2002
+West Virginia,51,Violent Crime Index,54,2002
+Wisconsin,91,Violent Crime Index,349,2002
+Wyoming,98,Violent Crime Index,106,2002
+United States,77,Property Crime Index,1511,2002
+Alabama,84,Property Crime Index,773,2002
+Alaska,91,Property Crime Index,2375,2002
+Arizona,95,Property Crime Index,1938,2002
+Arkansas,52,Property Crime Index,1393,2002
+California,99,Property Crime Index,1225,2002
+Colorado,81,Property Crime Index,2215,2002
+Connecticut,70,Property Crime Index,1147,2002
+Delaware,85,Property Crime Index,1405,2002
+District of Columbia,0,Property Crime Index,NA,2002
+Florida,99,Property Crime Index,2170,2002
+Georgia,49,Property Crime Index,1320,2002
+Hawaii,77,Property Crime Index,1669,2002
+Idaho,97,Property Crime Index,2254,2002
+Illinois,23,Property Crime Index,2323,2002
+Indiana,69,Property Crime Index,1352,2002
+Iowa,91,Property Crime Index,1957,2002
+Kansas,49,Property Crime Index,1211,2002
+Kentucky,23,Property Crime Index,1646,2002
+Louisiana,71,Property Crime Index,1949,2002
+Maine,100,Property Crime Index,2004,2002
+Maryland,59,Property Crime Index,1630,2002
+Massachusetts,73,Property Crime Index,709,2002
+Michigan,96,Property Crime Index,964,2002
+Minnesota,83,Property Crime Index,2046,2002
+Mississippi,54,Property Crime Index,1735,2002
+Missouri,84,Property Crime Index,1685,2002
+Montana,66,Property Crime Index,2182,2002
+Nebraska,91,Property Crime Index,2266,2002
+Nevada,71,Property Crime Index,2083,2002
+New Hampshire,64,Property Crime Index,1062,2002
+New Jersey,97,Property Crime Index,1039,2002
+New Mexico,64,Property Crime Index,1144,2002
+New York,33,Property Crime Index,1485,2002
+North Carolina,83,Property Crime Index,1563,2002
+North Dakota,90,Property Crime Index,2146,2002
+Ohio,57,Property Crime Index,1105,2002
+Oklahoma,98,Property Crime Index,1476,2002
+Oregon,84,Property Crime Index,1826,2002
+Pennsylvania,85,Property Crime Index,1258,2002
+Rhode Island,98,Property Crime Index,1464,2002
+South Carolina,54,Property Crime Index,1548,2002
+South Dakota,69,Property Crime Index,1686,2002
+Tennessee,85,Property Crime Index,899,2002
+Texas,98,Property Crime Index,1383,2002
+Utah,95,Property Crime Index,2480,2002
+Vermont,86,Property Crime Index,750,2002
+Virginia,86,Property Crime Index,862,2002
+Washington,84,Property Crime Index,2031,2002
+West Virginia,51,Property Crime Index,541,2002
+Wisconsin,91,Property Crime Index,3207,2002
+Wyoming,98,Property Crime Index,1649,2002
+United States,77,Drug abuse,571,2002
+Alabama,84,Drug abuse,219,2002
+Alaska,91,Drug abuse,547,2002
+Arizona,95,Drug abuse,740,2002
+Arkansas,52,Drug abuse,308,2002
+California,99,Drug abuse,549,2002
+Colorado,81,Drug abuse,729,2002
+Connecticut,70,Drug abuse,471,2002
+Delaware,85,Drug abuse,447,2002
+District of Columbia,0,Drug abuse,NA,2002
+Florida,99,Drug abuse,718,2002
+Georgia,49,Drug abuse,440,2002
+Hawaii,77,Drug abuse,429,2002
+Idaho,97,Drug abuse,498,2002
+Illinois,23,Drug abuse,2541,2002
+Indiana,69,Drug abuse,454,2002
+Iowa,91,Drug abuse,417,2002
+Kansas,49,Drug abuse,458,2002
+Kentucky,23,Drug abuse,668,2002
+Louisiana,71,Drug abuse,533,2002
+Maine,100,Drug abuse,541,2002
+Maryland,59,Drug abuse,797,2002
+Massachusetts,73,Drug abuse,399,2002
+Michigan,96,Drug abuse,324,2002
+Minnesota,83,Drug abuse,614,2002
+Mississippi,54,Drug abuse,551,2002
+Missouri,84,Drug abuse,585,2002
+Montana,66,Drug abuse,270,2002
+Nebraska,91,Drug abuse,669,2002
+Nevada,71,Drug abuse,313,2002
+New Hampshire,64,Drug abuse,725,2002
+New Jersey,97,Drug abuse,763,2002
+New Mexico,64,Drug abuse,545,2002
+New York,33,Drug abuse,706,2002
+North Carolina,83,Drug abuse,417,2002
+North Dakota,90,Drug abuse,381,2002
+Ohio,57,Drug abuse,345,2002
+Oklahoma,98,Drug abuse,439,2002
+Oregon,84,Drug abuse,520,2002
+Pennsylvania,85,Drug abuse,564,2002
+Rhode Island,98,Drug abuse,577,2002
+South Carolina,54,Drug abuse,636,2002
+South Dakota,69,Drug abuse,597,2002
+Tennessee,85,Drug abuse,372,2002
+Texas,98,Drug abuse,538,2002
+Utah,95,Drug abuse,565,2002
+Vermont,86,Drug abuse,323,2002
+Virginia,86,Drug abuse,370,2002
+Washington,84,Drug abuse,496,2002
+West Virginia,51,Drug abuse,122,2002
+Wisconsin,91,Drug abuse,884,2002
+Wyoming,98,Drug abuse,824,2002
+United States,77,Weapons,105,2002
+Alabama,84,Weapons,30,2002
+Alaska,91,Weapons,69,2002
+Arizona,95,Weapons,69,2002
+Arkansas,52,Weapons,61,2002
+California,99,Weapons,162,2002
+Colorado,81,Weapons,144,2002
+Connecticut,70,Weapons,77,2002
+Delaware,85,Weapons,244,2002
+District of Columbia,0,Weapons,NA,2002
+Florida,99,Weapons,100,2002
+Georgia,49,Weapons,103,2002
+Hawaii,77,Weapons,35,2002
+Idaho,97,Weapons,111,2002
+Illinois,23,Weapons,384,2002
+Indiana,69,Weapons,34,2002
+Iowa,91,Weapons,37,2002
+Kansas,49,Weapons,35,2002
+Kentucky,23,Weapons,60,2002
+Louisiana,71,Weapons,71,2002
+Maine,100,Weapons,33,2002
+Maryland,59,Weapons,133,2002
+Massachusetts,73,Weapons,33,2002
+Michigan,96,Weapons,54,2002
+Minnesota,83,Weapons,86,2002
+Mississippi,54,Weapons,78,2002
+Missouri,84,Weapons,97,2002
+Montana,66,Weapons,32,2002
+Nebraska,91,Weapons,68,2002
+Nevada,71,Weapons,63,2002
+New Hampshire,64,Weapons,15,2002
+New Jersey,97,Weapons,178,2002
+New Mexico,64,Weapons,142,2002
+New York,33,Weapons,96,2002
+North Carolina,83,Weapons,154,2002
+North Dakota,90,Weapons,42,2002
+Ohio,57,Weapons,66,2002
+Oklahoma,98,Weapons,83,2002
+Oregon,84,Weapons,58,2002
+Pennsylvania,85,Weapons,98,2002
+Rhode Island,98,Weapons,138,2002
+South Carolina,54,Weapons,142,2002
+South Dakota,69,Weapons,76,2002
+Tennessee,85,Weapons,83,2002
+Texas,98,Weapons,61,2002
+Utah,95,Weapons,105,2002
+Vermont,86,Weapons,15,2002
+Virginia,86,Weapons,73,2002
+Washington,84,Weapons,92,2002
+West Virginia,51,Weapons,22,2002
+Wisconsin,91,Weapons,231,2002
+Wyoming,98,Weapons,76,2002
+United States,76,Violent Crime Index,291,2003
+Alabama,91,Violent Crime Index,126,2003
+Alaska,97,Violent Crime Index,243,2003
+Arizona,96,Violent Crime Index,223,2003
+Arkansas,66,Violent Crime Index,130,2003
+California,99,Violent Crime Index,364,2003
+Colorado,71,Violent Crime Index,231,2003
+Connecticut,65,Violent Crime Index,290,2003
+Delaware,99,Violent Crime Index,595,2003
+District of Columbia,0,Violent Crime Index,NA,2003
+Florida,100,Violent Crime Index,524,2003
+Georgia,54,Violent Crime Index,266,2003
+Hawaii,100,Violent Crime Index,197,2003
+Idaho,94,Violent Crime Index,160,2003
+Illinois,23,Violent Crime Index,944,2003
+Indiana,74,Violent Crime Index,317,2003
+Iowa,90,Violent Crime Index,251,2003
+Kansas,48,Violent Crime Index,131,2003
+Kentucky,26,Violent Crime Index,229,2003
+Louisiana,73,Violent Crime Index,355,2003
+Maine,100,Violent Crime Index,78,2003
+Maryland,100,Violent Crime Index,505,2003
+Massachusetts,70,Violent Crime Index,269,2003
+Michigan,96,Violent Crime Index,166,2003
+Minnesota,83,Violent Crime Index,176,2003
+Mississippi,48,Violent Crime Index,136,2003
+Missouri,97,Violent Crime Index,295,2003
+Montana,60,Violent Crime Index,202,2003
+Nebraska,86,Violent Crime Index,96,2003
+Nevada,0,Violent Crime Index,NA,2003
+New Hampshire,69,Violent Crime Index,71,2003
+New Jersey,93,Violent Crime Index,386,2003
+New Mexico,55,Violent Crime Index,220,2003
+New York,45,Violent Crime Index,264,2003
+North Carolina,79,Violent Crime Index,310,2003
+North Dakota,85,Violent Crime Index,45,2003
+Ohio,49,Violent Crime Index,150,2003
+Oklahoma,100,Violent Crime Index,217,2003
+Oregon,91,Violent Crime Index,149,2003
+Pennsylvania,84,Violent Crime Index,402,2003
+Rhode Island,100,Violent Crime Index,288,2003
+South Carolina,13,Violent Crime Index,47,2003
+South Dakota,86,Violent Crime Index,108,2003
+Tennessee,84,Violent Crime Index,223,2003
+Texas,94,Violent Crime Index,185,2003
+Utah,72,Violent Crime Index,216,2003
+Vermont,77,Violent Crime Index,81,2003
+Virginia,75,Violent Crime Index,106,2003
+Washington,74,Violent Crime Index,246,2003
+West Virginia,45,Violent Crime Index,40,2003
+Wisconsin,76,Violent Crime Index,184,2003
+Wyoming,95,Violent Crime Index,88,2003
+United States,76,Property Crime Index,1442,2003
+Alabama,91,Property Crime Index,764,2003
+Alaska,97,Property Crime Index,2202,2003
+Arizona,96,Property Crime Index,1774,2003
+Arkansas,66,Property Crime Index,1282,2003
+California,99,Property Crime Index,1180,2003
+Colorado,71,Property Crime Index,2051,2003
+Connecticut,65,Property Crime Index,1347,2003
+Delaware,99,Property Crime Index,1583,2003
+District of Columbia,0,Property Crime Index,NA,2003
+Florida,100,Property Crime Index,2128,2003
+Georgia,54,Property Crime Index,1411,2003
+Hawaii,100,Property Crime Index,1387,2003
+Idaho,94,Property Crime Index,2158,2003
+Illinois,23,Property Crime Index,2074,2003
+Indiana,74,Property Crime Index,1219,2003
+Iowa,90,Property Crime Index,2099,2003
+Kansas,48,Property Crime Index,1055,2003
+Kentucky,26,Property Crime Index,1435,2003
+Louisiana,73,Property Crime Index,1842,2003
+Maine,100,Property Crime Index,1866,2003
+Maryland,100,Property Crime Index,1950,2003
+Massachusetts,70,Property Crime Index,512,2003
+Michigan,96,Property Crime Index,947,2003
+Minnesota,83,Property Crime Index,1860,2003
+Mississippi,48,Property Crime Index,1497,2003
+Missouri,97,Property Crime Index,1728,2003
+Montana,60,Property Crime Index,2175,2003
+Nebraska,86,Property Crime Index,1820,2003
+Nevada,0,Property Crime Index,NA,2003
+New Hampshire,69,Property Crime Index,674,2003
+New Jersey,93,Property Crime Index,934,2003
+New Mexico,55,Property Crime Index,1367,2003
+New York,45,Property Crime Index,1218,2003
+North Carolina,79,Property Crime Index,1582,2003
+North Dakota,85,Property Crime Index,1866,2003
+Ohio,49,Property Crime Index,1222,2003
+Oklahoma,100,Property Crime Index,1591,2003
+Oregon,91,Property Crime Index,1721,2003
+Pennsylvania,84,Property Crime Index,1222,2003
+Rhode Island,100,Property Crime Index,1372,2003
+South Carolina,13,Property Crime Index,214,2003
+South Dakota,86,Property Crime Index,1743,2003
+Tennessee,84,Property Crime Index,1064,2003
+Texas,94,Property Crime Index,1282,2003
+Utah,72,Property Crime Index,2511,2003
+Vermont,77,Property Crime Index,559,2003
+Virginia,75,Property Crime Index,844,2003
+Washington,74,Property Crime Index,2088,2003
+West Virginia,45,Property Crime Index,382,2003
+Wisconsin,76,Property Crime Index,2813,2003
+Wyoming,95,Property Crime Index,1885,2003
+United States,76,Drug abuse,594,2003
+Alabama,91,Drug abuse,236,2003
+Alaska,97,Drug abuse,487,2003
+Arizona,96,Drug abuse,820,2003
+Arkansas,66,Drug abuse,328,2003
+California,99,Drug abuse,523,2003
+Colorado,71,Drug abuse,777,2003
+Connecticut,65,Drug abuse,479,2003
+Delaware,99,Drug abuse,769,2003
+District of Columbia,0,Drug abuse,NA,2003
+Florida,100,Drug abuse,765,2003
+Georgia,54,Drug abuse,536,2003
+Hawaii,100,Drug abuse,424,2003
+Idaho,94,Drug abuse,482,2003
+Illinois,23,Drug abuse,2457,2003
+Indiana,74,Drug abuse,438,2003
+Iowa,90,Drug abuse,408,2003
+Kansas,48,Drug abuse,455,2003
+Kentucky,26,Drug abuse,588,2003
+Louisiana,73,Drug abuse,570,2003
+Maine,100,Drug abuse,562,2003
+Maryland,100,Drug abuse,1235,2003
+Massachusetts,70,Drug abuse,337,2003
+Michigan,96,Drug abuse,325,2003
+Minnesota,83,Drug abuse,579,2003
+Mississippi,48,Drug abuse,526,2003
+Missouri,97,Drug abuse,680,2003
+Montana,60,Drug abuse,295,2003
+Nebraska,86,Drug abuse,581,2003
+Nevada,0,Drug abuse,NA,2003
+New Hampshire,69,Drug abuse,452,2003
+New Jersey,93,Drug abuse,688,2003
+New Mexico,55,Drug abuse,749,2003
+New York,45,Drug abuse,569,2003
+North Carolina,79,Drug abuse,522,2003
+North Dakota,85,Drug abuse,322,2003
+Ohio,49,Drug abuse,443,2003
+Oklahoma,100,Drug abuse,469,2003
+Oregon,91,Drug abuse,520,2003
+Pennsylvania,84,Drug abuse,559,2003
+Rhode Island,100,Drug abuse,579,2003
+South Carolina,13,Drug abuse,183,2003
+South Dakota,86,Drug abuse,773,2003
+Tennessee,84,Drug abuse,472,2003
+Texas,94,Drug abuse,590,2003
+Utah,72,Drug abuse,568,2003
+Vermont,77,Drug abuse,322,2003
+Virginia,75,Drug abuse,377,2003
+Washington,74,Drug abuse,530,2003
+West Virginia,45,Drug abuse,157,2003
+Wisconsin,76,Drug abuse,842,2003
+Wyoming,95,Drug abuse,769,2003
+United States,76,Weapons,116,2003
+Alabama,91,Weapons,31,2003
+Alaska,97,Weapons,85,2003
+Arizona,96,Weapons,72,2003
+Arkansas,66,Weapons,64,2003
+California,99,Weapons,181,2003
+Colorado,71,Weapons,168,2003
+Connecticut,65,Weapons,90,2003
+Delaware,99,Weapons,147,2003
+District of Columbia,0,Weapons,NA,2003
+Florida,100,Weapons,109,2003
+Georgia,54,Weapons,153,2003
+Hawaii,100,Weapons,36,2003
+Idaho,94,Weapons,122,2003
+Illinois,23,Weapons,383,2003
+Indiana,74,Weapons,28,2003
+Iowa,90,Weapons,45,2003
+Kansas,48,Weapons,25,2003
+Kentucky,26,Weapons,56,2003
+Louisiana,73,Weapons,61,2003
+Maine,100,Weapons,26,2003
+Maryland,100,Weapons,224,2003
+Massachusetts,70,Weapons,28,2003
+Michigan,96,Weapons,53,2003
+Minnesota,83,Weapons,102,2003
+Mississippi,48,Weapons,70,2003
+Missouri,97,Weapons,87,2003
+Montana,60,Weapons,32,2003
+Nebraska,86,Weapons,83,2003
+Nevada,0,Weapons,NA,2003
+New Hampshire,69,Weapons,9,2003
+New Jersey,93,Weapons,214,2003
+New Mexico,55,Weapons,174,2003
+New York,45,Weapons,70,2003
+North Carolina,79,Weapons,179,2003
+North Dakota,85,Weapons,33,2003
+Ohio,49,Weapons,70,2003
+Oklahoma,100,Weapons,81,2003
+Oregon,91,Weapons,53,2003
+Pennsylvania,84,Weapons,123,2003
+Rhode Island,100,Weapons,160,2003
+South Carolina,13,Weapons,73,2003
+South Dakota,86,Weapons,82,2003
+Tennessee,84,Weapons,100,2003
+Texas,94,Weapons,64,2003
+Utah,72,Weapons,183,2003
+Vermont,77,Weapons,11,2003
+Virginia,75,Weapons,88,2003
+Washington,74,Weapons,113,2003
+West Virginia,45,Weapons,7,2003
+Wisconsin,76,Weapons,176,2003
+Wyoming,95,Weapons,80,2003
+United States,77,Violent Crime Index,285,2004
+Alabama,88,Violent Crime Index,125,2004
+Alaska,97,Violent Crime Index,204,2004
+Arizona,97,Violent Crime Index,236,2004
+Arkansas,53,Violent Crime Index,142,2004
+California,94,Violent Crime Index,347,2004
+Colorado,86,Violent Crime Index,228,2004
+Connecticut,83,Violent Crime Index,295,2004
+Delaware,91,Violent Crime Index,491,2004
+District of Columbia,0,Violent Crime Index,NA,2004
+Florida,100,Violent Crime Index,468,2004
+Georgia,36,Violent Crime Index,335,2004
+Hawaii,87,Violent Crime Index,237,2004
+Idaho,91,Violent Crime Index,162,2004
+Illinois,23,Violent Crime Index,985,2004
+Indiana,73,Violent Crime Index,323,2004
+Iowa,85,Violent Crime Index,246,2004
+Kansas,71,Violent Crime Index,157,2004
+Kentucky,25,Violent Crime Index,248,2004
+Louisiana,70,Violent Crime Index,401,2004
+Maine,100,Violent Crime Index,101,2004
+Maryland,100,Violent Crime Index,511,2004
+Massachusetts,72,Violent Crime Index,270,2004
+Michigan,93,Violent Crime Index,147,2004
+Minnesota,70,Violent Crime Index,170,2004
+Mississippi,51,Violent Crime Index,125,2004
+Missouri,83,Violent Crime Index,289,2004
+Montana,0,Violent Crime Index,NA,2004
+Nebraska,93,Violent Crime Index,119,2004
+Nevada,97,Violent Crime Index,271,2004
+New Hampshire,76,Violent Crime Index,73,2004
+New Jersey,97,Violent Crime Index,360,2004
+New Mexico,76,Violent Crime Index,266,2004
+New York,51,Violent Crime Index,260,2004
+North Carolina,71,Violent Crime Index,243,2004
+North Dakota,81,Violent Crime Index,59,2004
+Ohio,68,Violent Crime Index,148,2004
+Oklahoma,97,Violent Crime Index,196,2004
+Oregon,95,Violent Crime Index,221,2004
+Pennsylvania,86,Violent Crime Index,419,2004
+Rhode Island,100,Violent Crime Index,222,2004
+South Carolina,16,Violent Crime Index,277,2004
+South Dakota,55,Violent Crime Index,90,2004
+Tennessee,82,Violent Crime Index,236,2004
+Texas,99,Violent Crime Index,190,2004
+Utah,64,Violent Crime Index,174,2004
+Vermont,84,Violent Crime Index,66,2004
+Virginia,87,Violent Crime Index,120,2004
+Washington,76,Violent Crime Index,236,2004
+West Virginia,58,Violent Crime Index,58,2004
+Wisconsin,72,Violent Crime Index,212,2004
+Wyoming,97,Violent Crime Index,126,2004
+United States,77,Property Crime Index,1395,2004
+Alabama,88,Property Crime Index,760,2004
+Alaska,97,Property Crime Index,1599,2004
+Arizona,97,Property Crime Index,1796,2004
+Arkansas,53,Property Crime Index,1481,2004
+California,94,Property Crime Index,1109,2004
+Colorado,86,Property Crime Index,2012,2004
+Connecticut,83,Property Crime Index,1194,2004
+Delaware,91,Property Crime Index,1762,2004
+District of Columbia,0,Property Crime Index,NA,2004
+Florida,100,Property Crime Index,1951,2004
+Georgia,36,Property Crime Index,1542,2004
+Hawaii,87,Property Crime Index,1369,2004
+Idaho,91,Property Crime Index,1880,2004
+Illinois,23,Property Crime Index,1857,2004
+Indiana,73,Property Crime Index,1283,2004
+Iowa,85,Property Crime Index,1835,2004
+Kansas,71,Property Crime Index,1190,2004
+Kentucky,25,Property Crime Index,2083,2004
+Louisiana,70,Property Crime Index,1977,2004
+Maine,100,Property Crime Index,1749,2004
+Maryland,100,Property Crime Index,1965,2004
+Massachusetts,72,Property Crime Index,509,2004
+Michigan,93,Property Crime Index,902,2004
+Minnesota,70,Property Crime Index,1702,2004
+Mississippi,51,Property Crime Index,1514,2004
+Missouri,83,Property Crime Index,1613,2004
+Montana,0,Property Crime Index,NA,2004
+Nebraska,93,Property Crime Index,1942,2004
+Nevada,97,Property Crime Index,1686,2004
+New Hampshire,76,Property Crime Index,804,2004
+New Jersey,97,Property Crime Index,884,2004
+New Mexico,76,Property Crime Index,1236,2004
+New York,51,Property Crime Index,1117,2004
+North Carolina,71,Property Crime Index,1361,2004
+North Dakota,81,Property Crime Index,1866,2004
+Ohio,68,Property Crime Index,1063,2004
+Oklahoma,97,Property Crime Index,1610,2004
+Oregon,95,Property Crime Index,2033,2004
+Pennsylvania,86,Property Crime Index,1177,2004
+Rhode Island,100,Property Crime Index,1340,2004
+South Carolina,16,Property Crime Index,1051,2004
+South Dakota,55,Property Crime Index,1575,2004
+Tennessee,82,Property Crime Index,1173,2004
+Texas,99,Property Crime Index,1329,2004
+Utah,64,Property Crime Index,2622,2004
+Vermont,84,Property Crime Index,484,2004
+Virginia,87,Property Crime Index,814,2004
+Washington,76,Property Crime Index,1970,2004
+West Virginia,58,Property Crime Index,601,2004
+Wisconsin,72,Property Crime Index,3018,2004
+Wyoming,97,Property Crime Index,1689,2004
+United States,77,Drug abuse,587,2004
+Alabama,88,Drug abuse,245,2004
+Alaska,97,Drug abuse,375,2004
+Arizona,97,Drug abuse,833,2004
+Arkansas,53,Drug abuse,383,2004
+California,94,Drug abuse,495,2004
+Colorado,86,Drug abuse,707,2004
+Connecticut,83,Drug abuse,565,2004
+Delaware,91,Drug abuse,661,2004
+District of Columbia,0,Drug abuse,NA,2004
+Florida,100,Drug abuse,764,2004
+Georgia,36,Drug abuse,607,2004
+Hawaii,87,Drug abuse,371,2004
+Idaho,91,Drug abuse,530,2004
+Illinois,23,Drug abuse,2534,2004
+Indiana,73,Drug abuse,448,2004
+Iowa,85,Drug abuse,378,2004
+Kansas,71,Drug abuse,513,2004
+Kentucky,25,Drug abuse,892,2004
+Louisiana,70,Drug abuse,597,2004
+Maine,100,Drug abuse,566,2004
+Maryland,100,Drug abuse,1245,2004
+Massachusetts,72,Drug abuse,355,2004
+Michigan,93,Drug abuse,313,2004
+Minnesota,70,Drug abuse,595,2004
+Mississippi,51,Drug abuse,571,2004
+Missouri,83,Drug abuse,622,2004
+Montana,0,Drug abuse,NA,2004
+Nebraska,93,Drug abuse,615,2004
+Nevada,97,Drug abuse,328,2004
+New Hampshire,76,Drug abuse,601,2004
+New Jersey,97,Drug abuse,661,2004
+New Mexico,76,Drug abuse,634,2004
+New York,51,Drug abuse,529,2004
+North Carolina,71,Drug abuse,423,2004
+North Dakota,81,Drug abuse,385,2004
+Ohio,68,Drug abuse,379,2004
+Oklahoma,97,Drug abuse,486,2004
+Oregon,95,Drug abuse,623,2004
+Pennsylvania,86,Drug abuse,560,2004
+Rhode Island,100,Drug abuse,563,2004
+South Carolina,16,Drug abuse,427,2004
+South Dakota,55,Drug abuse,416,2004
+Tennessee,82,Drug abuse,541,2004
+Texas,99,Drug abuse,608,2004
+Utah,64,Drug abuse,598,2004
+Vermont,84,Drug abuse,256,2004
+Virginia,87,Drug abuse,316,2004
+Washington,76,Drug abuse,474,2004
+West Virginia,58,Drug abuse,164,2004
+Wisconsin,72,Drug abuse,896,2004
+Wyoming,97,Drug abuse,1038,2004
+United States,77,Weapons,122,2004
+Alabama,88,Weapons,30,2004
+Alaska,97,Weapons,52,2004
+Arizona,97,Weapons,79,2004
+Arkansas,53,Weapons,63,2004
+California,94,Weapons,189,2004
+Colorado,86,Weapons,148,2004
+Connecticut,83,Weapons,97,2004
+Delaware,91,Weapons,173,2004
+District of Columbia,0,Weapons,NA,2004
+Florida,100,Weapons,147,2004
+Georgia,36,Weapons,165,2004
+Hawaii,87,Weapons,35,2004
+Idaho,91,Weapons,134,2004
+Illinois,23,Weapons,385,2004
+Indiana,73,Weapons,29,2004
+Iowa,85,Weapons,31,2004
+Kansas,71,Weapons,64,2004
+Kentucky,25,Weapons,82,2004
+Louisiana,70,Weapons,76,2004
+Maine,100,Weapons,33,2004
+Maryland,100,Weapons,234,2004
+Massachusetts,72,Weapons,40,2004
+Michigan,93,Weapons,56,2004
+Minnesota,70,Weapons,94,2004
+Mississippi,51,Weapons,100,2004
+Missouri,83,Weapons,96,2004
+Montana,0,Weapons,NA,2004
+Nebraska,93,Weapons,99,2004
+Nevada,97,Weapons,72,2004
+New Hampshire,76,Weapons,11,2004
+New Jersey,97,Weapons,217,2004
+New Mexico,76,Weapons,148,2004
+New York,51,Weapons,82,2004
+North Carolina,71,Weapons,179,2004
+North Dakota,81,Weapons,72,2004
+Ohio,68,Weapons,65,2004
+Oklahoma,97,Weapons,82,2004
+Oregon,95,Weapons,76,2004
+Pennsylvania,86,Weapons,133,2004
+Rhode Island,100,Weapons,161,2004
+South Carolina,16,Weapons,86,2004
+South Dakota,55,Weapons,68,2004
+Tennessee,82,Weapons,112,2004
+Texas,99,Weapons,67,2004
+Utah,64,Weapons,171,2004
+Vermont,84,Weapons,19,2004
+Virginia,87,Weapons,88,2004
+Washington,76,Weapons,124,2004
+West Virginia,58,Weapons,25,2004
+Wisconsin,72,Weapons,223,2004
+Wyoming,97,Weapons,99,2004
+United States,79,Violent Crime Index,296,2005
+Alabama,71,Violent Crime Index,130,2005
+Alaska,97,Violent Crime Index,238,2005
+Arizona,90,Violent Crime Index,249,2005
+Arkansas,78,Violent Crime Index,201,2005
+California,99,Violent Crime Index,346,2005
+Colorado,92,Violent Crime Index,220,2005
+Connecticut,88,Violent Crime Index,306,2005
+Delaware,100,Violent Crime Index,578,2005
+District of Columbia,0,Violent Crime Index,NA,2005
+Florida,100,Violent Crime Index,463,2005
+Georgia,37,Violent Crime Index,344,2005
+Hawaii,82,Violent Crime Index,212,2005
+Idaho,63,Violent Crime Index,159,2005
+Illinois,23,Violent Crime Index,1075,2005
+Indiana,75,Violent Crime Index,290,2005
+Iowa,89,Violent Crime Index,287,2005
+Kansas,47,Violent Crime Index,122,2005
+Kentucky,64,Violent Crime Index,208,2005
+Louisiana,54,Violent Crime Index,372,2005
+Maine,99,Violent Crime Index,80,2005
+Maryland,99,Violent Crime Index,494,2005
+Massachusetts,77,Violent Crime Index,255,2005
+Michigan,97,Violent Crime Index,206,2005
+Minnesota,94,Violent Crime Index,237,2005
+Mississippi,50,Violent Crime Index,97,2005
+Missouri,63,Violent Crime Index,357,2005
+Montana,83,Violent Crime Index,134,2005
+Nebraska,90,Violent Crime Index,105,2005
+Nevada,100,Violent Crime Index,181,2005
+New Hampshire,83,Violent Crime Index,77,2005
+New Jersey,96,Violent Crime Index,340,2005
+New Mexico,74,Violent Crime Index,242,2005
+New York,51,Violent Crime Index,301,2005
+North Carolina,86,Violent Crime Index,305,2005
+North Dakota,86,Violent Crime Index,91,2005
+Ohio,57,Violent Crime Index,163,2005
+Oklahoma,94,Violent Crime Index,189,2005
+Oregon,94,Violent Crime Index,196,2005
+Pennsylvania,85,Violent Crime Index,442,2005
+Rhode Island,81,Violent Crime Index,215,2005
+South Carolina,91,Violent Crime Index,380,2005
+South Dakota,36,Violent Crime Index,133,2005
+Tennessee,78,Violent Crime Index,324,2005
+Texas,96,Violent Crime Index,191,2005
+Utah,85,Violent Crime Index,140,2005
+Vermont,87,Violent Crime Index,65,2005
+Virginia,77,Violent Crime Index,166,2005
+Washington,86,Violent Crime Index,222,2005
+West Virginia,85,Violent Crime Index,69,2005
+Wisconsin,68,Violent Crime Index,210,2005
+Wyoming,98,Violent Crime Index,131,2005
+United States,79,Property Crime Index,1289,2005
+Alabama,71,Property Crime Index,720,2005
+Alaska,97,Property Crime Index,1574,2005
+Arizona,90,Property Crime Index,1672,2005
+Arkansas,78,Property Crime Index,1288,2005
+California,99,Property Crime Index,1026,2005
+Colorado,92,Property Crime Index,1848,2005
+Connecticut,88,Property Crime Index,1107,2005
+Delaware,100,Property Crime Index,1563,2005
+District of Columbia,0,Property Crime Index,NA,2005
+Florida,100,Property Crime Index,1792,2005
+Georgia,37,Property Crime Index,1430,2005
+Hawaii,82,Property Crime Index,1137,2005
+Idaho,63,Property Crime Index,1876,2005
+Illinois,23,Property Crime Index,1851,2005
+Indiana,75,Property Crime Index,1280,2005
+Iowa,89,Property Crime Index,1865,2005
+Kansas,47,Property Crime Index,740,2005
+Kentucky,64,Property Crime Index,1095,2005
+Louisiana,54,Property Crime Index,1618,2005
+Maine,99,Property Crime Index,1499,2005
+Maryland,99,Property Crime Index,1804,2005
+Massachusetts,77,Property Crime Index,489,2005
+Michigan,97,Property Crime Index,985,2005
+Minnesota,94,Property Crime Index,1605,2005
+Mississippi,50,Property Crime Index,1306,2005
+Missouri,63,Property Crime Index,1359,2005
+Montana,83,Property Crime Index,2039,2005
+Nebraska,90,Property Crime Index,1935,2005
+Nevada,100,Property Crime Index,1315,2005
+New Hampshire,83,Property Crime Index,956,2005
+New Jersey,96,Property Crime Index,823,2005
+New Mexico,74,Property Crime Index,1110,2005
+New York,51,Property Crime Index,1070,2005
+North Carolina,86,Property Crime Index,1319,2005
+North Dakota,86,Property Crime Index,1695,2005
+Ohio,57,Property Crime Index,1059,2005
+Oklahoma,94,Property Crime Index,1310,2005
+Oregon,94,Property Crime Index,1784,2005
+Pennsylvania,85,Property Crime Index,1091,2005
+Rhode Island,81,Property Crime Index,1057,2005
+South Carolina,91,Property Crime Index,1366,2005
+South Dakota,36,Property Crime Index,1700,2005
+Tennessee,78,Property Crime Index,1288,2005
+Texas,96,Property Crime Index,1159,2005
+Utah,85,Property Crime Index,2193,2005
+Vermont,87,Property Crime Index,622,2005
+Virginia,77,Property Crime Index,870,2005
+Washington,86,Property Crime Index,1766,2005
+West Virginia,85,Property Crime Index,486,2005
+Wisconsin,68,Property Crime Index,2614,2005
+Wyoming,98,Property Crime Index,1837,2005
+United States,79,Drug abuse,581,2005
+Alabama,71,Drug abuse,291,2005
+Alaska,97,Drug abuse,388,2005
+Arizona,90,Drug abuse,852,2005
+Arkansas,78,Drug abuse,413,2005
+California,99,Drug abuse,493,2005
+Colorado,92,Drug abuse,777,2005
+Connecticut,88,Drug abuse,526,2005
+Delaware,100,Drug abuse,840,2005
+District of Columbia,0,Drug abuse,NA,2005
+Florida,100,Drug abuse,752,2005
+Georgia,37,Drug abuse,653,2005
+Hawaii,82,Drug abuse,306,2005
+Idaho,63,Drug abuse,532,2005
+Illinois,23,Drug abuse,2567,2005
+Indiana,75,Drug abuse,457,2005
+Iowa,89,Drug abuse,412,2005
+Kansas,47,Drug abuse,393,2005
+Kentucky,64,Drug abuse,694,2005
+Louisiana,54,Drug abuse,651,2005
+Maine,99,Drug abuse,425,2005
+Maryland,99,Drug abuse,1189,2005
+Massachusetts,77,Drug abuse,343,2005
+Michigan,97,Drug abuse,326,2005
+Minnesota,94,Drug abuse,569,2005
+Mississippi,50,Drug abuse,538,2005
+Missouri,63,Drug abuse,627,2005
+Montana,83,Drug abuse,431,2005
+Nebraska,90,Drug abuse,656,2005
+Nevada,100,Drug abuse,271,2005
+New Hampshire,83,Drug abuse,576,2005
+New Jersey,96,Drug abuse,660,2005
+New Mexico,74,Drug abuse,696,2005
+New York,51,Drug abuse,543,2005
+North Carolina,86,Drug abuse,412,2005
+North Dakota,86,Drug abuse,415,2005
+Ohio,57,Drug abuse,413,2005
+Oklahoma,94,Drug abuse,442,2005
+Oregon,94,Drug abuse,612,2005
+Pennsylvania,85,Drug abuse,546,2005
+Rhode Island,81,Drug abuse,532,2005
+South Carolina,91,Drug abuse,707,2005
+South Dakota,36,Drug abuse,291,2005
+Tennessee,78,Drug abuse,636,2005
+Texas,96,Drug abuse,546,2005
+Utah,85,Drug abuse,518,2005
+Vermont,87,Drug abuse,272,2005
+Virginia,77,Drug abuse,353,2005
+Washington,86,Drug abuse,456,2005
+West Virginia,85,Drug abuse,227,2005
+Wisconsin,68,Drug abuse,769,2005
+Wyoming,98,Drug abuse,901,2005
+United States,79,Weapons,134,2005
+Alabama,71,Weapons,28,2005
+Alaska,97,Weapons,79,2005
+Arizona,90,Weapons,81,2005
+Arkansas,78,Weapons,67,2005
+California,99,Weapons,207,2005
+Colorado,92,Weapons,153,2005
+Connecticut,88,Weapons,127,2005
+Delaware,100,Weapons,153,2005
+District of Columbia,0,Weapons,NA,2005
+Florida,100,Weapons,148,2005
+Georgia,37,Weapons,203,2005
+Hawaii,82,Weapons,30,2005
+Idaho,63,Weapons,112,2005
+Illinois,23,Weapons,356,2005
+Indiana,75,Weapons,36,2005
+Iowa,89,Weapons,38,2005
+Kansas,47,Weapons,38,2005
+Kentucky,64,Weapons,54,2005
+Louisiana,54,Weapons,104,2005
+Maine,99,Weapons,32,2005
+Maryland,99,Weapons,255,2005
+Massachusetts,77,Weapons,36,2005
+Michigan,97,Weapons,82,2005
+Minnesota,94,Weapons,145,2005
+Mississippi,50,Weapons,108,2005
+Missouri,63,Weapons,118,2005
+Montana,83,Weapons,50,2005
+Nebraska,90,Weapons,95,2005
+Nevada,100,Weapons,70,2005
+New Hampshire,83,Weapons,26,2005
+New Jersey,96,Weapons,205,2005
+New Mexico,74,Weapons,170,2005
+New York,51,Weapons,92,2005
+North Carolina,86,Weapons,188,2005
+North Dakota,86,Weapons,72,2005
+Ohio,57,Weapons,72,2005
+Oklahoma,94,Weapons,89,2005
+Oregon,94,Weapons,89,2005
+Pennsylvania,85,Weapons,146,2005
+Rhode Island,81,Weapons,147,2005
+South Carolina,91,Weapons,209,2005
+South Dakota,36,Weapons,161,2005
+Tennessee,78,Weapons,147,2005
+Texas,96,Weapons,71,2005
+Utah,85,Weapons,154,2005
+Vermont,87,Weapons,19,2005
+Virginia,77,Weapons,102,2005
+Washington,86,Weapons,115,2005
+West Virginia,85,Weapons,27,2005
+Wisconsin,68,Weapons,207,2005
+Wyoming,98,Weapons,127,2005
+United States,78,Violent Crime Index,315,2006
+Alabama,80,Violent Crime Index,141,2006
+Alaska,96,Violent Crime Index,218,2006
+Arizona,96,Violent Crime Index,240,2006
+Arkansas,69,Violent Crime Index,239,2006
+California,100,Violent Crime Index,389,2006
+Colorado,95,Violent Crime Index,220,2006
+Connecticut,61,Violent Crime Index,403,2006
+Delaware,100,Violent Crime Index,607,2006
+District of Columbia,0,Violent Crime Index,NA,2006
+Florida,100,Violent Crime Index,485,2006
+Georgia,34,Violent Crime Index,377,2006
+Hawaii,84,Violent Crime Index,218,2006
+Idaho,84,Violent Crime Index,145,2006
+Illinois,23,Violent Crime Index,1029,2006
+Indiana,59,Violent Crime Index,147,2006
+Iowa,83,Violent Crime Index,263,2006
+Kansas,65,Violent Crime Index,164,2006
+Kentucky,23,Violent Crime Index,371,2006
+Louisiana,48,Violent Crime Index,436,2006
+Maine,100,Violent Crime Index,92,2006
+Maryland,99,Violent Crime Index,583,2006
+Massachusetts,85,Violent Crime Index,362,2006
+Michigan,93,Violent Crime Index,223,2006
+Minnesota,89,Violent Crime Index,234,2006
+Mississippi,56,Violent Crime Index,135,2006
+Missouri,98,Violent Crime Index,341,2006
+Montana,0,Violent Crime Index,NA,2006
+Nebraska,87,Violent Crime Index,106,2006
+Nevada,99,Violent Crime Index,213,2006
+New Hampshire,79,Violent Crime Index,90,2006
+New Jersey,97,Violent Crime Index,362,2006
+New Mexico,65,Violent Crime Index,266,2006
+New York,49,Violent Crime Index,314,2006
+North Carolina,76,Violent Crime Index,287,2006
+North Dakota,90,Violent Crime Index,69,2006
+Ohio,50,Violent Crime Index,194,2006
+Oklahoma,91,Violent Crime Index,201,2006
+Oregon,84,Violent Crime Index,209,2006
+Pennsylvania,88,Violent Crime Index,468,2006
+Rhode Island,89,Violent Crime Index,143,2006
+South Carolina,90,Violent Crime Index,342,2006
+South Dakota,47,Violent Crime Index,27,2006
+Tennessee,81,Violent Crime Index,321,2006
+Texas,96,Violent Crime Index,185,2006
+Utah,79,Violent Crime Index,117,2006
+Vermont,83,Violent Crime Index,103,2006
+Virginia,77,Violent Crime Index,171,2006
+Washington,82,Violent Crime Index,237,2006
+West Virginia,49,Violent Crime Index,45,2006
+Wisconsin,95,Violent Crime Index,297,2006
+Wyoming,98,Violent Crime Index,138,2006
+United States,78,Property Crime Index,1256,2006
+Alabama,80,Property Crime Index,592,2006
+Alaska,96,Property Crime Index,1622,2006
+Arizona,96,Property Crime Index,1394,2006
+Arkansas,69,Property Crime Index,1217,2006
+California,100,Property Crime Index,1034,2006
+Colorado,95,Property Crime Index,1573,2006
+Connecticut,61,Property Crime Index,1128,2006
+Delaware,100,Property Crime Index,1491,2006
+District of Columbia,0,Property Crime Index,NA,2006
+Florida,100,Property Crime Index,1772,2006
+Georgia,34,Property Crime Index,1243,2006
+Hawaii,84,Property Crime Index,1092,2006
+Idaho,84,Property Crime Index,1829,2006
+Illinois,23,Property Crime Index,1679,2006
+Indiana,59,Property Crime Index,1408,2006
+Iowa,83,Property Crime Index,1676,2006
+Kansas,65,Property Crime Index,895,2006
+Kentucky,23,Property Crime Index,2092,2006
+Louisiana,48,Property Crime Index,1585,2006
+Maine,100,Property Crime Index,1435,2006
+Maryland,99,Property Crime Index,1890,2006
+Massachusetts,85,Property Crime Index,502,2006
+Michigan,93,Property Crime Index,1066,2006
+Minnesota,89,Property Crime Index,1735,2006
+Mississippi,56,Property Crime Index,1006,2006
+Missouri,98,Property Crime Index,1650,2006
+Montana,0,Property Crime Index,NA,2006
+Nebraska,87,Property Crime Index,1892,2006
+Nevada,99,Property Crime Index,1211,2006
+New Hampshire,79,Property Crime Index,886,2006
+New Jersey,97,Property Crime Index,881,2006
+New Mexico,65,Property Crime Index,1002,2006
+New York,49,Property Crime Index,1104,2006
+North Carolina,76,Property Crime Index,1331,2006
+North Dakota,90,Property Crime Index,1595,2006
+Ohio,50,Property Crime Index,1064,2006
+Oklahoma,91,Property Crime Index,1179,2006
+Oregon,84,Property Crime Index,1798,2006
+Pennsylvania,88,Property Crime Index,1046,2006
+Rhode Island,89,Property Crime Index,893,2006
+South Carolina,90,Property Crime Index,1043,2006
+South Dakota,47,Property Crime Index,417,2006
+Tennessee,81,Property Crime Index,1087,2006
+Texas,96,Property Crime Index,1002,2006
+Utah,79,Property Crime Index,1793,2006
+Vermont,83,Property Crime Index,585,2006
+Virginia,77,Property Crime Index,905,2006
+Washington,82,Property Crime Index,1695,2006
+West Virginia,49,Property Crime Index,275,2006
+Wisconsin,95,Property Crime Index,2583,2006
+Wyoming,98,Property Crime Index,1521,2006
+United States,78,Drug abuse,600,2006
+Alabama,80,Drug abuse,263,2006
+Alaska,96,Drug abuse,314,2006
+Arizona,96,Drug abuse,767,2006
+Arkansas,69,Drug abuse,445,2006
+California,100,Drug abuse,496,2006
+Colorado,95,Drug abuse,738,2006
+Connecticut,61,Drug abuse,543,2006
+Delaware,100,Drug abuse,862,2006
+District of Columbia,0,Drug abuse,NA,2006
+Florida,100,Drug abuse,789,2006
+Georgia,34,Drug abuse,682,2006
+Hawaii,84,Drug abuse,360,2006
+Idaho,84,Drug abuse,509,2006
+Illinois,23,Drug abuse,2415,2006
+Indiana,59,Drug abuse,477,2006
+Iowa,83,Drug abuse,396,2006
+Kansas,65,Drug abuse,425,2006
+Kentucky,23,Drug abuse,1387,2006
+Louisiana,48,Drug abuse,772,2006
+Maine,100,Drug abuse,456,2006
+Maryland,99,Drug abuse,1173,2006
+Massachusetts,85,Drug abuse,387,2006
+Michigan,93,Drug abuse,360,2006
+Minnesota,89,Drug abuse,567,2006
+Mississippi,56,Drug abuse,518,2006
+Missouri,98,Drug abuse,703,2006
+Montana,0,Drug abuse,NA,2006
+Nebraska,87,Drug abuse,638,2006
+Nevada,99,Drug abuse,504,2006
+New Hampshire,79,Drug abuse,618,2006
+New Jersey,97,Drug abuse,695,2006
+New Mexico,65,Drug abuse,618,2006
+New York,49,Drug abuse,608,2006
+North Carolina,76,Drug abuse,454,2006
+North Dakota,90,Drug abuse,399,2006
+Ohio,50,Drug abuse,432,2006
+Oklahoma,91,Drug abuse,473,2006
+Oregon,84,Drug abuse,550,2006
+Pennsylvania,88,Drug abuse,543,2006
+Rhode Island,89,Drug abuse,461,2006
+South Carolina,90,Drug abuse,697,2006
+South Dakota,47,Drug abuse,171,2006
+Tennessee,81,Drug abuse,624,2006
+Texas,96,Drug abuse,548,2006
+Utah,79,Drug abuse,477,2006
+Vermont,83,Drug abuse,297,2006
+Virginia,77,Drug abuse,412,2006
+Washington,82,Drug abuse,490,2006
+West Virginia,49,Drug abuse,195,2006
+Wisconsin,95,Drug abuse,839,2006
+Wyoming,98,Drug abuse,941,2006
+United States,78,Weapons,141,2006
+Alabama,80,Weapons,37,2006
+Alaska,96,Weapons,99,2006
+Arizona,96,Weapons,80,2006
+Arkansas,69,Weapons,77,2006
+California,100,Weapons,214,2006
+Colorado,95,Weapons,149,2006
+Connecticut,61,Weapons,119,2006
+Delaware,100,Weapons,171,2006
+District of Columbia,0,Weapons,NA,2006
+Florida,100,Weapons,132,2006
+Georgia,34,Weapons,188,2006
+Hawaii,84,Weapons,36,2006
+Idaho,84,Weapons,113,2006
+Illinois,23,Weapons,308,2006
+Indiana,59,Weapons,34,2006
+Iowa,83,Weapons,42,2006
+Kansas,65,Weapons,64,2006
+Kentucky,23,Weapons,136,2006
+Louisiana,48,Weapons,132,2006
+Maine,100,Weapons,38,2006
+Maryland,99,Weapons,256,2006
+Massachusetts,85,Weapons,46,2006
+Michigan,93,Weapons,93,2006
+Minnesota,89,Weapons,180,2006
+Mississippi,56,Weapons,124,2006
+Missouri,98,Weapons,127,2006
+Montana,0,Weapons,NA,2006
+Nebraska,87,Weapons,91,2006
+Nevada,99,Weapons,180,2006
+New Hampshire,79,Weapons,17,2006
+New Jersey,97,Weapons,217,2006
+New Mexico,65,Weapons,196,2006
+New York,49,Weapons,85,2006
+North Carolina,76,Weapons,214,2006
+North Dakota,90,Weapons,70,2006
+Ohio,50,Weapons,94,2006
+Oklahoma,91,Weapons,101,2006
+Oregon,84,Weapons,83,2006
+Pennsylvania,88,Weapons,150,2006
+Rhode Island,89,Weapons,131,2006
+South Carolina,90,Weapons,204,2006
+South Dakota,47,Weapons,14,2006
+Tennessee,81,Weapons,146,2006
+Texas,96,Weapons,69,2006
+Utah,79,Weapons,142,2006
+Vermont,83,Weapons,13,2006
+Virginia,77,Weapons,105,2006
+Washington,82,Weapons,145,2006
+West Virginia,49,Weapons,10,2006
+Wisconsin,95,Weapons,261,2006
+Wyoming,98,Weapons,87,2006
+United States,81,Violent Crime Index,301,2007
+Alabama,75,Violent Crime Index,180,2007
+Alaska,96,Violent Crime Index,220,2007
+Arizona,94,Violent Crime Index,228,2007
+Arkansas,66,Violent Crime Index,147,2007
+California,98,Violent Crime Index,410,2007
+Colorado,90,Violent Crime Index,173,2007
+Connecticut,93,Violent Crime Index,282,2007
+Delaware,99,Violent Crime Index,591,2007
+District of Columbia,0,Violent Crime Index,NA,2007
+Florida,100,Violent Crime Index,477,2007
+Georgia,62,Violent Crime Index,294,2007
+Hawaii,0,Violent Crime Index,NA,2007
+Idaho,92,Violent Crime Index,141,2007
+Illinois,23,Violent Crime Index,913,2007
+Indiana,71,Violent Crime Index,209,2007
+Iowa,86,Violent Crime Index,258,2007
+Kansas,64,Violent Crime Index,168,2007
+Kentucky,20,Violent Crime Index,343,2007
+Louisiana,61,Violent Crime Index,364,2007
+Maine,100,Violent Crime Index,63,2007
+Maryland,99,Violent Crime Index,548,2007
+Massachusetts,91,Violent Crime Index,307,2007
+Michigan,92,Violent Crime Index,224,2007
+Minnesota,98,Violent Crime Index,217,2007
+Mississippi,37,Violent Crime Index,138,2007
+Missouri,85,Violent Crime Index,257,2007
+Montana,84,Violent Crime Index,90,2007
+Nebraska,85,Violent Crime Index,138,2007
+Nevada,96,Violent Crime Index,238,2007
+New Hampshire,68,Violent Crime Index,86,2007
+New Jersey,97,Violent Crime Index,334,2007
+New Mexico,71,Violent Crime Index,279,2007
+New York,55,Violent Crime Index,270,2007
+North Carolina,77,Violent Crime Index,318,2007
+North Dakota,88,Violent Crime Index,79,2007
+Ohio,60,Violent Crime Index,150,2007
+Oklahoma,100,Violent Crime Index,178,2007
+Oregon,94,Violent Crime Index,230,2007
+Pennsylvania,92,Violent Crime Index,426,2007
+Rhode Island,83,Violent Crime Index,86,2007
+South Carolina,95,Violent Crime Index,294,2007
+South Dakota,49,Violent Crime Index,95,2007
+Tennessee,79,Violent Crime Index,332,2007
+Texas,91,Violent Crime Index,188,2007
+Utah,88,Violent Crime Index,120,2007
+Vermont,98,Violent Crime Index,65,2007
+Virginia,95,Violent Crime Index,146,2007
+Washington,75,Violent Crime Index,267,2007
+West Virginia,77,Violent Crime Index,42,2007
+Wisconsin,98,Violent Crime Index,298,2007
+Wyoming,99,Violent Crime Index,124,2007
+United States,81,Property Crime Index,1293,2007
+Alabama,75,Property Crime Index,757,2007
+Alaska,96,Property Crime Index,1559,2007
+Arizona,94,Property Crime Index,1546,2007
+Arkansas,66,Property Crime Index,1012,2007
+California,98,Property Crime Index,1074,2007
+Colorado,90,Property Crime Index,1621,2007
+Connecticut,93,Property Crime Index,1017,2007
+Delaware,99,Property Crime Index,1647,2007
+District of Columbia,0,Property Crime Index,NA,2007
+Florida,100,Property Crime Index,1864,2007
+Georgia,62,Property Crime Index,1342,2007
+Hawaii,0,Property Crime Index,NA,2007
+Idaho,92,Property Crime Index,1823,2007
+Illinois,23,Property Crime Index,1547,2007
+Indiana,71,Property Crime Index,1510,2007
+Iowa,86,Property Crime Index,1860,2007
+Kansas,64,Property Crime Index,952,2007
+Kentucky,20,Property Crime Index,2168,2007
+Louisiana,61,Property Crime Index,1617,2007
+Maine,100,Property Crime Index,1477,2007
+Maryland,99,Property Crime Index,1876,2007
+Massachusetts,91,Property Crime Index,521,2007
+Michigan,92,Property Crime Index,1024,2007
+Minnesota,98,Property Crime Index,1758,2007
+Mississippi,37,Property Crime Index,1227,2007
+Missouri,85,Property Crime Index,1573,2007
+Montana,84,Property Crime Index,1745,2007
+Nebraska,85,Property Crime Index,1823,2007
+Nevada,96,Property Crime Index,1313,2007
+New Hampshire,68,Property Crime Index,692,2007
+New Jersey,97,Property Crime Index,864,2007
+New Mexico,71,Property Crime Index,1045,2007
+New York,55,Property Crime Index,1002,2007
+North Carolina,77,Property Crime Index,1431,2007
+North Dakota,88,Property Crime Index,1874,2007
+Ohio,60,Property Crime Index,1001,2007
+Oklahoma,100,Property Crime Index,1122,2007
+Oregon,94,Property Crime Index,1855,2007
+Pennsylvania,92,Property Crime Index,1075,2007
+Rhode Island,83,Property Crime Index,960,2007
+South Carolina,95,Property Crime Index,1120,2007
+South Dakota,49,Property Crime Index,1461,2007
+Tennessee,79,Property Crime Index,1249,2007
+Texas,91,Property Crime Index,1087,2007
+Utah,88,Property Crime Index,1879,2007
+Vermont,98,Property Crime Index,570,2007
+Virginia,95,Property Crime Index,784,2007
+Washington,75,Property Crime Index,1897,2007
+West Virginia,77,Property Crime Index,368,2007
+Wisconsin,98,Property Crime Index,2634,2007
+Wyoming,99,Property Crime Index,1748,2007
+United States,81,Drug abuse,590,2007
+Alabama,75,Drug abuse,249,2007
+Alaska,96,Drug abuse,328,2007
+Arizona,94,Drug abuse,784,2007
+Arkansas,66,Drug abuse,381,2007
+California,98,Drug abuse,519,2007
+Colorado,90,Drug abuse,741,2007
+Connecticut,93,Drug abuse,442,2007
+Delaware,99,Drug abuse,819,2007
+District of Columbia,0,Drug abuse,NA,2007
+Florida,100,Drug abuse,763,2007
+Georgia,62,Drug abuse,591,2007
+Hawaii,0,Drug abuse,NA,2007
+Idaho,92,Drug abuse,544,2007
+Illinois,23,Drug abuse,2152,2007
+Indiana,71,Drug abuse,486,2007
+Iowa,86,Drug abuse,450,2007
+Kansas,64,Drug abuse,533,2007
+Kentucky,20,Drug abuse,1360,2007
+Louisiana,61,Drug abuse,623,2007
+Maine,100,Drug abuse,417,2007
+Maryland,99,Drug abuse,1192,2007
+Massachusetts,91,Drug abuse,377,2007
+Michigan,92,Drug abuse,337,2007
+Minnesota,98,Drug abuse,507,2007
+Mississippi,37,Drug abuse,495,2007
+Missouri,85,Drug abuse,641,2007
+Montana,84,Drug abuse,378,2007
+Nebraska,85,Drug abuse,644,2007
+Nevada,96,Drug abuse,517,2007
+New Hampshire,68,Drug abuse,540,2007
+New Jersey,97,Drug abuse,689,2007
+New Mexico,71,Drug abuse,752,2007
+New York,55,Drug abuse,520,2007
+North Carolina,77,Drug abuse,508,2007
+North Dakota,88,Drug abuse,436,2007
+Ohio,60,Drug abuse,414,2007
+Oklahoma,100,Drug abuse,503,2007
+Oregon,94,Drug abuse,603,2007
+Pennsylvania,92,Drug abuse,523,2007
+Rhode Island,83,Drug abuse,386,2007
+South Carolina,95,Drug abuse,705,2007
+South Dakota,49,Drug abuse,476,2007
+Tennessee,79,Drug abuse,626,2007
+Texas,91,Drug abuse,593,2007
+Utah,88,Drug abuse,506,2007
+Vermont,98,Drug abuse,286,2007
+Virginia,95,Drug abuse,359,2007
+Washington,75,Drug abuse,540,2007
+West Virginia,77,Drug abuse,161,2007
+Wisconsin,98,Drug abuse,806,2007
+Wyoming,99,Drug abuse,994,2007
+United States,81,Weapons,128,2007
+Alabama,75,Weapons,46,2007
+Alaska,96,Weapons,68,2007
+Arizona,94,Weapons,84,2007
+Arkansas,66,Weapons,60,2007
+California,98,Weapons,202,2007
+Colorado,90,Weapons,137,2007
+Connecticut,93,Weapons,89,2007
+Delaware,99,Weapons,137,2007
+District of Columbia,0,Weapons,NA,2007
+Florida,100,Weapons,106,2007
+Georgia,62,Weapons,223,2007
+Hawaii,0,Weapons,NA,2007
+Idaho,92,Weapons,110,2007
+Illinois,23,Weapons,294,2007
+Indiana,71,Weapons,59,2007
+Iowa,86,Weapons,45,2007
+Kansas,64,Weapons,77,2007
+Kentucky,20,Weapons,127,2007
+Louisiana,61,Weapons,113,2007
+Maine,100,Weapons,44,2007
+Maryland,99,Weapons,221,2007
+Massachusetts,91,Weapons,46,2007
+Michigan,92,Weapons,89,2007
+Minnesota,98,Weapons,135,2007
+Mississippi,37,Weapons,120,2007
+Missouri,85,Weapons,97,2007
+Montana,84,Weapons,41,2007
+Nebraska,85,Weapons,109,2007
+Nevada,96,Weapons,152,2007
+New Hampshire,68,Weapons,30,2007
+New Jersey,97,Weapons,185,2007
+New Mexico,71,Weapons,178,2007
+New York,55,Weapons,66,2007
+North Carolina,77,Weapons,215,2007
+North Dakota,88,Weapons,43,2007
+Ohio,60,Weapons,70,2007
+Oklahoma,100,Weapons,87,2007
+Oregon,94,Weapons,94,2007
+Pennsylvania,92,Weapons,127,2007
+Rhode Island,83,Weapons,117,2007
+South Carolina,95,Weapons,168,2007
+South Dakota,49,Weapons,68,2007
+Tennessee,79,Weapons,144,2007
+Texas,91,Weapons,64,2007
+Utah,88,Weapons,133,2007
+Vermont,98,Weapons,35,2007
+Virginia,95,Weapons,88,2007
+Washington,75,Weapons,144,2007
+West Virginia,77,Weapons,16,2007
+Wisconsin,98,Weapons,233,2007
+Wyoming,99,Weapons,85,2007
+United States,82,Violent Crime Index,306,2008
+Alabama,81,Violent Crime Index,176,2008
+Alaska,97,Violent Crime Index,272,2008
+Arizona,99,Violent Crime Index,228,2008
+Arkansas,84,Violent Crime Index,180,2008
+California,99,Violent Crime Index,414,2008
+Colorado,88,Violent Crime Index,199,2008
+Connecticut,92,Violent Crime Index,337,2008
+Delaware,100,Violent Crime Index,630,2008
+District of Columbia,0,Violent Crime Index,NA,2008
+Florida,100,Violent Crime Index,471,2008
+Georgia,62,Violent Crime Index,278,2008
+Hawaii,89,Violent Crime Index,264,2008
+Idaho,94,Violent Crime Index,136,2008
+Illinois,23,Violent Crime Index,1066,2008
+Indiana,73,Violent Crime Index,290,2008
+Iowa,92,Violent Crime Index,252,2008
+Kansas,68,Violent Crime Index,163,2008
+Kentucky,15,Violent Crime Index,402,2008
+Louisiana,56,Violent Crime Index,603,2008
+Maine,100,Violent Crime Index,66,2008
+Maryland,99,Violent Crime Index,608,2008
+Massachusetts,90,Violent Crime Index,333,2008
+Michigan,87,Violent Crime Index,225,2008
+Minnesota,97,Violent Crime Index,208,2008
+Mississippi,45,Violent Crime Index,145,2008
+Missouri,94,Violent Crime Index,274,2008
+Montana,96,Violent Crime Index,112,2008
+Nebraska,92,Violent Crime Index,139,2008
+Nevada,98,Violent Crime Index,337,2008
+New Hampshire,78,Violent Crime Index,84,2008
+New Jersey,96,Violent Crime Index,332,2008
+New Mexico,73,Violent Crime Index,278,2008
+New York,47,Violent Crime Index,260,2008
+North Carolina,72,Violent Crime Index,305,2008
+North Dakota,91,Violent Crime Index,117,2008
+Ohio,60,Violent Crime Index,160,2008
+Oklahoma,100,Violent Crime Index,202,2008
+Oregon,96,Violent Crime Index,192,2008
+Pennsylvania,97,Violent Crime Index,426,2008
+Rhode Island,100,Violent Crime Index,186,2008
+South Carolina,98,Violent Crime Index,192,2008
+South Dakota,78,Violent Crime Index,79,2008
+Tennessee,80,Violent Crime Index,318,2008
+Texas,96,Violent Crime Index,181,2008
+Utah,87,Violent Crime Index,122,2008
+Vermont,82,Violent Crime Index,91,2008
+Virginia,97,Violent Crime Index,142,2008
+Washington,73,Violent Crime Index,248,2008
+West Virginia,61,Violent Crime Index,72,2008
+Wisconsin,98,Violent Crime Index,279,2008
+Wyoming,99,Violent Crime Index,132,2008
+United States,82,Property Crime Index,1398,2008
+Alabama,81,Property Crime Index,924,2008
+Alaska,97,Property Crime Index,1655,2008
+Arizona,99,Property Crime Index,1558,2008
+Arkansas,84,Property Crime Index,1460,2008
+California,99,Property Crime Index,1153,2008
+Colorado,88,Property Crime Index,1853,2008
+Connecticut,92,Property Crime Index,1163,2008
+Delaware,100,Property Crime Index,1778,2008
+District of Columbia,0,Property Crime Index,NA,2008
+Florida,100,Property Crime Index,2062,2008
+Georgia,62,Property Crime Index,1343,2008
+Hawaii,89,Property Crime Index,1405,2008
+Idaho,94,Property Crime Index,1764,2008
+Illinois,23,Property Crime Index,1850,2008
+Indiana,73,Property Crime Index,1734,2008
+Iowa,92,Property Crime Index,1792,2008
+Kansas,68,Property Crime Index,1109,2008
+Kentucky,15,Property Crime Index,2182,2008
+Louisiana,56,Property Crime Index,1564,2008
+Maine,100,Property Crime Index,1622,2008
+Maryland,99,Property Crime Index,2073,2008
+Massachusetts,90,Property Crime Index,578,2008
+Michigan,87,Property Crime Index,1067,2008
+Minnesota,97,Property Crime Index,1884,2008
+Mississippi,45,Property Crime Index,1483,2008
+Missouri,94,Property Crime Index,1928,2008
+Montana,96,Property Crime Index,1831,2008
+Nebraska,92,Property Crime Index,2013,2008
+Nevada,98,Property Crime Index,1724,2008
+New Hampshire,78,Property Crime Index,771,2008
+New Jersey,96,Property Crime Index,925,2008
+New Mexico,73,Property Crime Index,1537,2008
+New York,47,Property Crime Index,1141,2008
+North Carolina,72,Property Crime Index,1615,2008
+North Dakota,91,Property Crime Index,2107,2008
+Ohio,60,Property Crime Index,1088,2008
+Oklahoma,100,Property Crime Index,1335,2008
+Oregon,96,Property Crime Index,1914,2008
+Pennsylvania,97,Property Crime Index,1106,2008
+Rhode Island,100,Property Crime Index,1097,2008
+South Carolina,98,Property Crime Index,784,2008
+South Dakota,78,Property Crime Index,1640,2008
+Tennessee,80,Property Crime Index,1348,2008
+Texas,96,Property Crime Index,1182,2008
+Utah,87,Property Crime Index,2125,2008
+Vermont,82,Property Crime Index,569,2008
+Virginia,97,Property Crime Index,865,2008
+Washington,73,Property Crime Index,1760,2008
+West Virginia,61,Property Crime Index,577,2008
+Wisconsin,98,Property Crime Index,2588,2008
+Wyoming,99,Property Crime Index,1977,2008
+United States,82,Drug abuse,560,2008
+Alabama,81,Drug abuse,242,2008
+Alaska,97,Drug abuse,340,2008
+Arizona,99,Drug abuse,762,2008
+Arkansas,84,Drug abuse,365,2008
+California,99,Drug abuse,523,2008
+Colorado,88,Drug abuse,763,2008
+Connecticut,92,Drug abuse,456,2008
+Delaware,100,Drug abuse,774,2008
+District of Columbia,0,Drug abuse,NA,2008
+Florida,100,Drug abuse,731,2008
+Georgia,62,Drug abuse,465,2008
+Hawaii,89,Drug abuse,375,2008
+Idaho,94,Drug abuse,468,2008
+Illinois,23,Drug abuse,1843,2008
+Indiana,73,Drug abuse,460,2008
+Iowa,92,Drug abuse,396,2008
+Kansas,68,Drug abuse,472,2008
+Kentucky,15,Drug abuse,729,2008
+Louisiana,56,Drug abuse,580,2008
+Maine,100,Drug abuse,428,2008
+Maryland,99,Drug abuse,1272,2008
+Massachusetts,90,Drug abuse,358,2008
+Michigan,87,Drug abuse,337,2008
+Minnesota,97,Drug abuse,511,2008
+Mississippi,45,Drug abuse,454,2008
+Missouri,94,Drug abuse,566,2008
+Montana,96,Drug abuse,305,2008
+Nebraska,92,Drug abuse,657,2008
+Nevada,98,Drug abuse,618,2008
+New Hampshire,78,Drug abuse,580,2008
+New Jersey,96,Drug abuse,642,2008
+New Mexico,73,Drug abuse,580,2008
+New York,47,Drug abuse,536,2008
+North Carolina,72,Drug abuse,458,2008
+North Dakota,91,Drug abuse,477,2008
+Ohio,60,Drug abuse,360,2008
+Oklahoma,100,Drug abuse,479,2008
+Oregon,96,Drug abuse,614,2008
+Pennsylvania,97,Drug abuse,486,2008
+Rhode Island,100,Drug abuse,397,2008
+South Carolina,98,Drug abuse,388,2008
+South Dakota,78,Drug abuse,590,2008
+Tennessee,80,Drug abuse,574,2008
+Texas,96,Drug abuse,566,2008
+Utah,87,Drug abuse,563,2008
+Vermont,82,Drug abuse,274,2008
+Virginia,97,Drug abuse,351,2008
+Washington,73,Drug abuse,507,2008
+West Virginia,61,Drug abuse,204,2008
+Wisconsin,98,Drug abuse,780,2008
+Wyoming,99,Drug abuse,910,2008
+United States,82,Weapons,121,2008
+Alabama,81,Weapons,47,2008
+Alaska,97,Weapons,42,2008
+Arizona,99,Weapons,76,2008
+Arkansas,84,Weapons,62,2008
+California,99,Weapons,196,2008
+Colorado,88,Weapons,123,2008
+Connecticut,92,Weapons,90,2008
+Delaware,100,Weapons,169,2008
+District of Columbia,0,Weapons,NA,2008
+Florida,100,Weapons,104,2008
+Georgia,62,Weapons,198,2008
+Hawaii,89,Weapons,22,2008
+Idaho,94,Weapons,101,2008
+Illinois,23,Weapons,334,2008
+Indiana,73,Weapons,57,2008
+Iowa,92,Weapons,52,2008
+Kansas,68,Weapons,59,2008
+Kentucky,15,Weapons,84,2008
+Louisiana,56,Weapons,116,2008
+Maine,100,Weapons,35,2008
+Maryland,99,Weapons,226,2008
+Massachusetts,90,Weapons,45,2008
+Michigan,87,Weapons,85,2008
+Minnesota,97,Weapons,145,2008
+Mississippi,45,Weapons,124,2008
+Missouri,94,Weapons,121,2008
+Montana,96,Weapons,21,2008
+Nebraska,92,Weapons,112,2008
+Nevada,98,Weapons,159,2008
+New Hampshire,78,Weapons,12,2008
+New Jersey,96,Weapons,158,2008
+New Mexico,73,Weapons,133,2008
+New York,47,Weapons,60,2008
+North Carolina,72,Weapons,197,2008
+North Dakota,91,Weapons,70,2008
+Ohio,60,Weapons,79,2008
+Oklahoma,100,Weapons,83,2008
+Oregon,96,Weapons,87,2008
+Pennsylvania,97,Weapons,119,2008
+Rhode Island,100,Weapons,129,2008
+South Carolina,98,Weapons,94,2008
+South Dakota,78,Weapons,83,2008
+Tennessee,80,Weapons,115,2008
+Texas,96,Weapons,61,2008
+Utah,87,Weapons,120,2008
+Vermont,82,Weapons,29,2008
+Virginia,97,Weapons,72,2008
+Washington,73,Weapons,126,2008
+West Virginia,61,Weapons,25,2008
+Wisconsin,98,Weapons,238,2008
+Wyoming,99,Weapons,83,2008
+United States,84,Violent Crime Index,274,2009
+Alabama,78,Violent Crime Index,158,2009
+Alaska,98,Violent Crime Index,259,2009
+Arizona,99,Violent Crime Index,189,2009
+Arkansas,85,Violent Crime Index,133,2009
+California,99,Violent Crime Index,372,2009
+Colorado,90,Violent Crime Index,176,2009
+Connecticut,100,Violent Crime Index,310,2009
+Delaware,100,Violent Crime Index,553,2009
+District of Columbia,0,Violent Crime Index,NA,2009
+Florida,100,Violent Crime Index,407,2009
+Georgia,69,Violent Crime Index,286,2009
+Hawaii,89,Violent Crime Index,222,2009
+Idaho,98,Violent Crime Index,117,2009
+Illinois,23,Violent Crime Index,924,2009
+Indiana,73,Violent Crime Index,231,2009
+Iowa,92,Violent Crime Index,235,2009
+Kansas,64,Violent Crime Index,145,2009
+Kentucky,53,Violent Crime Index,176,2009
+Louisiana,54,Violent Crime Index,627,2009
+Maine,100,Violent Crime Index,57,2009
+Maryland,100,Violent Crime Index,537,2009
+Massachusetts,93,Violent Crime Index,291,2009
+Michigan,96,Violent Crime Index,200,2009
+Minnesota,97,Violent Crime Index,187,2009
+Mississippi,55,Violent Crime Index,136,2009
+Missouri,93,Violent Crime Index,286,2009
+Montana,93,Violent Crime Index,127,2009
+Nebraska,89,Violent Crime Index,159,2009
+Nevada,96,Violent Crime Index,361,2009
+New Hampshire,88,Violent Crime Index,75,2009
+New Jersey,98,Violent Crime Index,312,2009
+New Mexico,76,Violent Crime Index,253,2009
+New York,55,Violent Crime Index,239,2009
+North Carolina,74,Violent Crime Index,266,2009
+North Dakota,95,Violent Crime Index,95,2009
+Ohio,70,Violent Crime Index,145,2009
+Oklahoma,96,Violent Crime Index,174,2009
+Oregon,94,Violent Crime Index,150,2009
+Pennsylvania,94,Violent Crime Index,373,2009
+Rhode Island,97,Violent Crime Index,191,2009
+South Carolina,96,Violent Crime Index,241,2009
+South Dakota,83,Violent Crime Index,77,2009
+Tennessee,78,Violent Crime Index,313,2009
+Texas,98,Violent Crime Index,174,2009
+Utah,99,Violent Crime Index,105,2009
+Vermont,97,Violent Crime Index,73,2009
+Virginia,95,Violent Crime Index,103,2009
+Washington,73,Violent Crime Index,240,2009
+West Virginia,51,Violent Crime Index,63,2009
+Wisconsin,95,Violent Crime Index,245,2009
+Wyoming,99,Violent Crime Index,85,2009
+United States,84,Property Crime Index,1336,2009
+Alabama,78,Property Crime Index,951,2009
+Alaska,98,Property Crime Index,1390,2009
+Arizona,99,Property Crime Index,1542,2009
+Arkansas,85,Property Crime Index,1258,2009
+California,99,Property Crime Index,1065,2009
+Colorado,90,Property Crime Index,1660,2009
+Connecticut,100,Property Crime Index,1082,2009
+Delaware,100,Property Crime Index,1824,2009
+District of Columbia,0,Property Crime Index,NA,2009
+Florida,100,Property Crime Index,1851,2009
+Georgia,69,Property Crime Index,1441,2009
+Hawaii,89,Property Crime Index,1598,2009
+Idaho,98,Property Crime Index,1664,2009
+Illinois,23,Property Crime Index,1732,2009
+Indiana,73,Property Crime Index,1574,2009
+Iowa,92,Property Crime Index,1751,2009
+Kansas,64,Property Crime Index,1198,2009
+Kentucky,53,Property Crime Index,1112,2009
+Louisiana,54,Property Crime Index,1749,2009
+Maine,100,Property Crime Index,1478,2009
+Maryland,100,Property Crime Index,1834,2009
+Massachusetts,93,Property Crime Index,556,2009
+Michigan,96,Property Crime Index,1022,2009
+Minnesota,97,Property Crime Index,1894,2009
+Mississippi,55,Property Crime Index,1582,2009
+Missouri,93,Property Crime Index,1918,2009
+Montana,93,Property Crime Index,1681,2009
+Nebraska,89,Property Crime Index,2153,2009
+Nevada,96,Property Crime Index,1690,2009
+New Hampshire,88,Property Crime Index,940,2009
+New Jersey,98,Property Crime Index,911,2009
+New Mexico,76,Property Crime Index,1589,2009
+New York,55,Property Crime Index,1079,2009
+North Carolina,74,Property Crime Index,1439,2009
+North Dakota,95,Property Crime Index,2115,2009
+Ohio,70,Property Crime Index,1001,2009
+Oklahoma,96,Property Crime Index,1482,2009
+Oregon,94,Property Crime Index,1683,2009
+Pennsylvania,94,Property Crime Index,988,2009
+Rhode Island,97,Property Crime Index,1108,2009
+South Carolina,96,Property Crime Index,1176,2009
+South Dakota,83,Property Crime Index,1960,2009
+Tennessee,78,Property Crime Index,1480,2009
+Texas,98,Property Crime Index,1198,2009
+Utah,99,Property Crime Index,1961,2009
+Vermont,97,Property Crime Index,599,2009
+Virginia,95,Property Crime Index,869,2009
+Washington,73,Property Crime Index,1517,2009
+West Virginia,51,Property Crime Index,707,2009
+Wisconsin,95,Property Crime Index,2429,2009
+Wyoming,99,Property Crime Index,1813,2009
+United States,84,Drug abuse,532,2009
+Alabama,78,Drug abuse,208,2009
+Alaska,98,Drug abuse,405,2009
+Arizona,99,Drug abuse,761,2009
+Arkansas,85,Drug abuse,327,2009
+California,99,Drug abuse,537,2009
+Colorado,90,Drug abuse,687,2009
+Connecticut,100,Drug abuse,441,2009
+Delaware,100,Drug abuse,740,2009
+District of Columbia,0,Drug abuse,NA,2009
+Florida,100,Drug abuse,652,2009
+Georgia,69,Drug abuse,455,2009
+Hawaii,89,Drug abuse,447,2009
+Idaho,98,Drug abuse,460,2009
+Illinois,23,Drug abuse,1736,2009
+Indiana,73,Drug abuse,453,2009
+Iowa,92,Drug abuse,357,2009
+Kansas,64,Drug abuse,413,2009
+Kentucky,53,Drug abuse,368,2009
+Louisiana,54,Drug abuse,536,2009
+Maine,100,Drug abuse,488,2009
+Maryland,100,Drug abuse,1089,2009
+Massachusetts,93,Drug abuse,112,2009
+Michigan,96,Drug abuse,340,2009
+Minnesota,97,Drug abuse,511,2009
+Mississippi,55,Drug abuse,418,2009
+Missouri,93,Drug abuse,584,2009
+Montana,93,Drug abuse,331,2009
+Nebraska,89,Drug abuse,658,2009
+Nevada,96,Drug abuse,664,2009
+New Hampshire,88,Drug abuse,642,2009
+New Jersey,98,Drug abuse,603,2009
+New Mexico,76,Drug abuse,621,2009
+New York,55,Drug abuse,476,2009
+North Carolina,74,Drug abuse,401,2009
+North Dakota,95,Drug abuse,471,2009
+Ohio,70,Drug abuse,295,2009
+Oklahoma,96,Drug abuse,477,2009
+Oregon,94,Drug abuse,598,2009
+Pennsylvania,94,Drug abuse,429,2009
+Rhode Island,97,Drug abuse,535,2009
+South Carolina,96,Drug abuse,545,2009
+South Dakota,83,Drug abuse,635,2009
+Tennessee,78,Drug abuse,589,2009
+Texas,98,Drug abuse,583,2009
+Utah,99,Drug abuse,558,2009
+Vermont,97,Drug abuse,233,2009
+Virginia,95,Drug abuse,307,2009
+Washington,73,Drug abuse,439,2009
+West Virginia,51,Drug abuse,227,2009
+Wisconsin,95,Drug abuse,723,2009
+Wyoming,99,Drug abuse,813,2009
+United States,84,Weapons,103,2009
+Alabama,78,Weapons,31,2009
+Alaska,98,Weapons,50,2009
+Arizona,99,Weapons,55,2009
+Arkansas,85,Weapons,54,2009
+California,99,Weapons,174,2009
+Colorado,90,Weapons,102,2009
+Connecticut,100,Weapons,77,2009
+Delaware,100,Weapons,152,2009
+District of Columbia,0,Weapons,NA,2009
+Florida,100,Weapons,82,2009
+Georgia,69,Weapons,140,2009
+Hawaii,89,Weapons,29,2009
+Idaho,98,Weapons,78,2009
+Illinois,23,Weapons,291,2009
+Indiana,73,Weapons,58,2009
+Iowa,92,Weapons,38,2009
+Kansas,64,Weapons,51,2009
+Kentucky,53,Weapons,40,2009
+Louisiana,54,Weapons,95,2009
+Maine,100,Weapons,37,2009
+Maryland,100,Weapons,179,2009
+Massachusetts,93,Weapons,39,2009
+Michigan,96,Weapons,68,2009
+Minnesota,97,Weapons,114,2009
+Mississippi,55,Weapons,130,2009
+Missouri,93,Weapons,103,2009
+Montana,93,Weapons,14,2009
+Nebraska,89,Weapons,78,2009
+Nevada,96,Weapons,134,2009
+New Hampshire,88,Weapons,12,2009
+New Jersey,98,Weapons,147,2009
+New Mexico,76,Weapons,122,2009
+New York,55,Weapons,60,2009
+North Carolina,74,Weapons,175,2009
+North Dakota,95,Weapons,47,2009
+Ohio,70,Weapons,62,2009
+Oklahoma,96,Weapons,74,2009
+Oregon,94,Weapons,60,2009
+Pennsylvania,94,Weapons,103,2009
+Rhode Island,97,Weapons,167,2009
+South Carolina,96,Weapons,118,2009
+South Dakota,83,Weapons,90,2009
+Tennessee,78,Weapons,130,2009
+Texas,98,Weapons,51,2009
+Utah,99,Weapons,112,2009
+Vermont,97,Weapons,25,2009
+Virginia,95,Weapons,52,2009
+Washington,73,Weapons,100,2009
+West Virginia,51,Weapons,23,2009
+Wisconsin,95,Weapons,195,2009
+Wyoming,99,Weapons,63,2009
+United States,84,Violent Crime Index,233,2010
+Alabama,72,Violent Crime Index,80,2010
+Alaska,99,Violent Crime Index,248,2010
+Arizona,90,Violent Crime Index,182,2010
+Arkansas,74,Violent Crime Index,130,2010
+California,96,Violent Crime Index,304,2010
+Colorado,89,Violent Crime Index,156,2010
+Connecticut,95,Violent Crime Index,212,2010
+Delaware,100,Violent Crime Index,368,2010
+District of Columbia,0,Violent Crime Index,NA,2010
+Florida,100,Violent Crime Index,343,2010
+Georgia,81,Violent Crime Index,192,2010
+Hawaii,89,Violent Crime Index,217,2010
+Idaho,94,Violent Crime Index,93,2010
+Illinois,23,Violent Crime Index,815,2010
+Indiana,59,Violent Crime Index,143,2010
+Iowa,88,Violent Crime Index,203,2010
+Kansas,69,Violent Crime Index,149,2010
+Kentucky,70,Violent Crime Index,125,2010
+Louisiana,58,Violent Crime Index,503,2010
+Maine,100,Violent Crime Index,55,2010
+Maryland,83,Violent Crime Index,522,2010
+Massachusetts,94,Violent Crime Index,259,2010
+Michigan,94,Violent Crime Index,179,2010
+Minnesota,100,Violent Crime Index,160,2010
+Mississippi,53,Violent Crime Index,119,2010
+Missouri,93,Violent Crime Index,222,2010
+Montana,87,Violent Crime Index,120,2010
+Nebraska,90,Violent Crime Index,109,2010
+Nevada,89,Violent Crime Index,300,2010
+New Hampshire,87,Violent Crime Index,93,2010
+New Jersey,98,Violent Crime Index,243,2010
+New Mexico,88,Violent Crime Index,240,2010
+New York,50,Violent Crime Index,221,2010
+North Carolina,83,Violent Crime Index,211,2010
+North Dakota,90,Violent Crime Index,92,2010
+Ohio,74,Violent Crime Index,111,2010
+Oklahoma,99,Violent Crime Index,149,2010
+Oregon,87,Violent Crime Index,147,2010
+Pennsylvania,97,Violent Crime Index,355,2010
+Rhode Island,99,Violent Crime Index,198,2010
+South Carolina,95,Violent Crime Index,186,2010
+South Dakota,78,Violent Crime Index,109,2010
+Tennessee,78,Violent Crime Index,383,2010
+Texas,99,Violent Crime Index,146,2010
+Utah,97,Violent Crime Index,90,2010
+Vermont,87,Violent Crime Index,66,2010
+Virginia,98,Violent Crime Index,112,2010
+Washington,78,Violent Crime Index,211,2010
+West Virginia,80,Violent Crime Index,59,2010
+Wisconsin,89,Violent Crime Index,237,2010
+Wyoming,99,Violent Crime Index,96,2010
+United States,84,Property Crime Index,1133,2010
+Alabama,72,Property Crime Index,495,2010
+Alaska,99,Property Crime Index,1329,2010
+Arizona,90,Property Crime Index,1426,2010
+Arkansas,74,Property Crime Index,984,2010
+California,96,Property Crime Index,922,2010
+Colorado,89,Property Crime Index,1424,2010
+Connecticut,95,Property Crime Index,849,2010
+Delaware,100,Property Crime Index,1452,2010
+District of Columbia,0,Property Crime Index,NA,2010
+Florida,100,Property Crime Index,1530,2010
+Georgia,81,Property Crime Index,1200,2010
+Hawaii,89,Property Crime Index,1284,2010
+Idaho,94,Property Crime Index,1456,2010
+Illinois,23,Property Crime Index,1449,2010
+Indiana,59,Property Crime Index,1198,2010
+Iowa,88,Property Crime Index,1616,2010
+Kansas,69,Property Crime Index,976,2010
+Kentucky,70,Property Crime Index,754,2010
+Louisiana,58,Property Crime Index,1517,2010
+Maine,100,Property Crime Index,1346,2010
+Maryland,83,Property Crime Index,1697,2010
+Massachusetts,94,Property Crime Index,449,2010
+Michigan,94,Property Crime Index,880,2010
+Minnesota,100,Property Crime Index,1507,2010
+Mississippi,53,Property Crime Index,1350,2010
+Missouri,93,Property Crime Index,1537,2010
+Montana,87,Property Crime Index,1570,2010
+Nebraska,90,Property Crime Index,1920,2010
+Nevada,89,Property Crime Index,1492,2010
+New Hampshire,87,Property Crime Index,825,2010
+New Jersey,98,Property Crime Index,736,2010
+New Mexico,88,Property Crime Index,1488,2010
+New York,50,Property Crime Index,1084,2010
+North Carolina,83,Property Crime Index,1177,2010
+North Dakota,90,Property Crime Index,1693,2010
+Ohio,74,Property Crime Index,771,2010
+Oklahoma,99,Property Crime Index,1167,2010
+Oregon,87,Property Crime Index,1635,2010
+Pennsylvania,97,Property Crime Index,874,2010
+Rhode Island,99,Property Crime Index,901,2010
+South Carolina,95,Property Crime Index,1110,2010
+South Dakota,78,Property Crime Index,1818,2010
+Tennessee,78,Property Crime Index,1352,2010
+Texas,99,Property Crime Index,1049,2010
+Utah,97,Property Crime Index,1748,2010
+Vermont,87,Property Crime Index,469,2010
+Virginia,98,Property Crime Index,763,2010
+Washington,78,Property Crime Index,1201,2010
+West Virginia,80,Property Crime Index,346,2010
+Wisconsin,89,Property Crime Index,1904,2010
+Wyoming,99,Property Crime Index,1636,2010
+United States,84,Drug abuse,511,2010
+Alabama,72,Drug abuse,85,2010
+Alaska,99,Drug abuse,391,2010
+Arizona,90,Drug abuse,798,2010
+Arkansas,74,Drug abuse,326,2010
+California,96,Drug abuse,560,2010
+Colorado,89,Drug abuse,684,2010
+Connecticut,95,Drug abuse,412,2010
+Delaware,100,Drug abuse,637,2010
+District of Columbia,0,Drug abuse,NA,2010
+Florida,100,Drug abuse,589,2010
+Georgia,81,Drug abuse,368,2010
+Hawaii,89,Drug abuse,365,2010
+Idaho,94,Drug abuse,505,2010
+Illinois,23,Drug abuse,1591,2010
+Indiana,59,Drug abuse,435,2010
+Iowa,88,Drug abuse,426,2010
+Kansas,69,Drug abuse,500,2010
+Kentucky,70,Drug abuse,234,2010
+Louisiana,58,Drug abuse,518,2010
+Maine,100,Drug abuse,440,2010
+Maryland,83,Drug abuse,1052,2010
+Massachusetts,94,Drug abuse,107,2010
+Michigan,94,Drug abuse,313,2010
+Minnesota,100,Drug abuse,498,2010
+Mississippi,53,Drug abuse,324,2010
+Missouri,93,Drug abuse,515,2010
+Montana,87,Drug abuse,404,2010
+Nebraska,90,Drug abuse,770,2010
+Nevada,89,Drug abuse,778,2010
+New Hampshire,87,Drug abuse,637,2010
+New Jersey,98,Drug abuse,517,2010
+New Mexico,88,Drug abuse,807,2010
+New York,50,Drug abuse,506,2010
+North Carolina,83,Drug abuse,339,2010
+North Dakota,90,Drug abuse,574,2010
+Ohio,74,Drug abuse,272,2010
+Oklahoma,99,Drug abuse,426,2010
+Oregon,87,Drug abuse,708,2010
+Pennsylvania,97,Drug abuse,413,2010
+Rhode Island,99,Drug abuse,461,2010
+South Carolina,95,Drug abuse,587,2010
+South Dakota,78,Drug abuse,755,2010
+Tennessee,78,Drug abuse,591,2010
+Texas,99,Drug abuse,535,2010
+Utah,97,Drug abuse,550,2010
+Vermont,87,Drug abuse,187,2010
+Virginia,98,Drug abuse,311,2010
+Washington,78,Drug abuse,470,2010
+West Virginia,80,Drug abuse,156,2010
+Wisconsin,89,Drug abuse,676,2010
+Wyoming,99,Drug abuse,1057,2010
+United States,84,Weapons,92,2010
+Alabama,72,Weapons,19,2010
+Alaska,99,Weapons,35,2010
+Arizona,90,Weapons,49,2010
+Arkansas,74,Weapons,49,2010
+California,96,Weapons,162,2010
+Colorado,89,Weapons,90,2010
+Connecticut,95,Weapons,66,2010
+Delaware,100,Weapons,127,2010
+District of Columbia,0,Weapons,NA,2010
+Florida,100,Weapons,67,2010
+Georgia,81,Weapons,104,2010
+Hawaii,89,Weapons,18,2010
+Idaho,94,Weapons,77,2010
+Illinois,23,Weapons,275,2010
+Indiana,59,Weapons,50,2010
+Iowa,88,Weapons,40,2010
+Kansas,69,Weapons,37,2010
+Kentucky,70,Weapons,33,2010
+Louisiana,58,Weapons,82,2010
+Maine,100,Weapons,44,2010
+Maryland,83,Weapons,185,2010
+Massachusetts,94,Weapons,35,2010
+Michigan,94,Weapons,63,2010
+Minnesota,100,Weapons,92,2010
+Mississippi,53,Weapons,125,2010
+Missouri,93,Weapons,70,2010
+Montana,87,Weapons,23,2010
+Nebraska,90,Weapons,86,2010
+Nevada,89,Weapons,105,2010
+New Hampshire,87,Weapons,17,2010
+New Jersey,98,Weapons,118,2010
+New Mexico,88,Weapons,120,2010
+New York,50,Weapons,58,2010
+North Carolina,83,Weapons,172,2010
+North Dakota,90,Weapons,22,2010
+Ohio,74,Weapons,54,2010
+Oklahoma,99,Weapons,65,2010
+Oregon,87,Weapons,55,2010
+Pennsylvania,97,Weapons,99,2010
+Rhode Island,99,Weapons,145,2010
+South Carolina,95,Weapons,114,2010
+South Dakota,78,Weapons,97,2010
+Tennessee,78,Weapons,120,2010
+Texas,99,Weapons,40,2010
+Utah,97,Weapons,99,2010
+Vermont,87,Weapons,9,2010
+Virginia,98,Weapons,53,2010
+Washington,78,Weapons,92,2010
+West Virginia,80,Weapons,8,2010
+Wisconsin,89,Weapons,153,2010
+Wyoming,99,Weapons,82,2010
+United States,83,Violent Crime Index,210,2011
+Alabama,2,Violent Crime Index,0,2011
+Alaska,99,Violent Crime Index,239,2011
+Arizona,95,Violent Crime Index,155,2011
+Arkansas,74,Violent Crime Index,136,2011
+California,99,Violent Crime Index,262,2011
+Colorado,91,Violent Crime Index,117,2011
+Connecticut,98,Violent Crime Index,158,2011
+Delaware,100,Violent Crime Index,389,2011
+District of Columbia,0,Violent Crime Index,NA,2011
+Florida,100,Violent Crime Index,311,2011
+Georgia,94,Violent Crime Index,173,2011
+Hawaii,0,Violent Crime Index,NA,2011
+Idaho,94,Violent Crime Index,80,2011
+Illinois,22,Violent Crime Index,757,2011
+Indiana,76,Violent Crime Index,214,2011
+Iowa,88,Violent Crime Index,192,2011
+Kansas,70,Violent Crime Index,113,2011
+Kentucky,94,Violent Crime Index,93,2011
+Louisiana,53,Violent Crime Index,523,2011
+Maine,100,Violent Crime Index,57,2011
+Maryland,83,Violent Crime Index,400,2011
+Massachusetts,91,Violent Crime Index,225,2011
+Michigan,89,Violent Crime Index,158,2011
+Minnesota,100,Violent Crime Index,151,2011
+Mississippi,56,Violent Crime Index,112,2011
+Missouri,94,Violent Crime Index,194,2011
+Montana,90,Violent Crime Index,101,2011
+Nebraska,90,Violent Crime Index,109,2011
+Nevada,89,Violent Crime Index,250,2011
+New Hampshire,78,Violent Crime Index,80,2011
+New Jersey,99,Violent Crime Index,214,2011
+New Mexico,95,Violent Crime Index,203,2011
+New York,47,Violent Crime Index,181,2011
+North Carolina,96,Violent Crime Index,183,2011
+North Dakota,94,Violent Crime Index,72,2011
+Ohio,74,Violent Crime Index,112,2011
+Oklahoma,92,Violent Crime Index,141,2011
+Oregon,95,Violent Crime Index,119,2011
+Pennsylvania,93,Violent Crime Index,347,2011
+Rhode Island,83,Violent Crime Index,134,2011
+South Carolina,90,Violent Crime Index,170,2011
+South Dakota,83,Violent Crime Index,80,2011
+Tennessee,95,Violent Crime Index,305,2011
+Texas,93,Violent Crime Index,127,2011
+Utah,44,Violent Crime Index,98,2011
+Vermont,73,Violent Crime Index,79,2011
+Virginia,99,Violent Crime Index,107,2011
+Washington,57,Violent Crime Index,170,2011
+West Virginia,81,Violent Crime Index,56,2011
+Wisconsin,93,Violent Crime Index,252,2011
+Wyoming,96,Violent Crime Index,88,2011
+United States,83,Property Crime Index,1030,2011
+Alabama,2,Property Crime Index,1074,2011
+Alaska,99,Property Crime Index,1268,2011
+Arizona,95,Property Crime Index,1301,2011
+Arkansas,74,Property Crime Index,1017,2011
+California,99,Property Crime Index,809,2011
+Colorado,91,Property Crime Index,1257,2011
+Connecticut,98,Property Crime Index,708,2011
+Delaware,100,Property Crime Index,1287,2011
+District of Columbia,0,Property Crime Index,NA,2011
+Florida,100,Property Crime Index,1406,2011
+Georgia,94,Property Crime Index,1016,2011
+Hawaii,0,Property Crime Index,NA,2011
+Idaho,94,Property Crime Index,1353,2011
+Illinois,22,Property Crime Index,1599,2011
+Indiana,76,Property Crime Index,1233,2011
+Iowa,88,Property Crime Index,1540,2011
+Kansas,70,Property Crime Index,903,2011
+Kentucky,94,Property Crime Index,642,2011
+Louisiana,53,Property Crime Index,1325,2011
+Maine,100,Property Crime Index,1114,2011
+Maryland,83,Property Crime Index,1519,2011
+Massachusetts,91,Property Crime Index,376,2011
+Michigan,89,Property Crime Index,798,2011
+Minnesota,100,Property Crime Index,1407,2011
+Mississippi,56,Property Crime Index,1127,2011
+Missouri,94,Property Crime Index,1366,2011
+Montana,90,Property Crime Index,1586,2011
+Nebraska,90,Property Crime Index,1914,2011
+Nevada,89,Property Crime Index,1264,2011
+New Hampshire,78,Property Crime Index,760,2011
+New Jersey,99,Property Crime Index,619,2011
+New Mexico,95,Property Crime Index,1515,2011
+New York,47,Property Crime Index,1013,2011
+North Carolina,96,Property Crime Index,1081,2011
+North Dakota,94,Property Crime Index,1579,2011
+Ohio,74,Property Crime Index,668,2011
+Oklahoma,92,Property Crime Index,1099,2011
+Oregon,95,Property Crime Index,1361,2011
+Pennsylvania,93,Property Crime Index,853,2011
+Rhode Island,83,Property Crime Index,861,2011
+South Carolina,90,Property Crime Index,985,2011
+South Dakota,83,Property Crime Index,1551,2011
+Tennessee,95,Property Crime Index,1025,2011
+Texas,93,Property Crime Index,894,2011
+Utah,44,Property Crime Index,1424,2011
+Vermont,73,Property Crime Index,456,2011
+Virginia,99,Property Crime Index,745,2011
+Washington,57,Property Crime Index,1305,2011
+West Virginia,81,Property Crime Index,330,2011
+Wisconsin,93,Property Crime Index,1831,2011
+Wyoming,96,Property Crime Index,1381,2011
+United States,83,Drug abuse,444,2011
+Alabama,2,Drug abuse,305,2011
+Alaska,99,Drug abuse,434,2011
+Arizona,95,Drug abuse,733,2011
+Arkansas,74,Drug abuse,283,2011
+California,99,Drug abuse,296,2011
+Colorado,91,Drug abuse,665,2011
+Connecticut,98,Drug abuse,292,2011
+Delaware,100,Drug abuse,530,2011
+District of Columbia,0,Drug abuse,NA,2011
+Florida,100,Drug abuse,546,2011
+Georgia,94,Drug abuse,298,2011
+Hawaii,0,Drug abuse,NA,2011
+Idaho,94,Drug abuse,566,2011
+Illinois,22,Drug abuse,1461,2011
+Indiana,76,Drug abuse,419,2011
+Iowa,88,Drug abuse,395,2011
+Kansas,70,Drug abuse,412,2011
+Kentucky,94,Drug abuse,208,2011
+Louisiana,53,Drug abuse,448,2011
+Maine,100,Drug abuse,400,2011
+Maryland,83,Drug abuse,855,2011
+Massachusetts,91,Drug abuse,85,2011
+Michigan,89,Drug abuse,293,2011
+Minnesota,100,Drug abuse,552,2011
+Mississippi,56,Drug abuse,308,2011
+Missouri,94,Drug abuse,538,2011
+Montana,90,Drug abuse,448,2011
+Nebraska,90,Drug abuse,737,2011
+Nevada,89,Drug abuse,690,2011
+New Hampshire,78,Drug abuse,544,2011
+New Jersey,99,Drug abuse,504,2011
+New Mexico,95,Drug abuse,658,2011
+New York,47,Drug abuse,453,2011
+North Carolina,96,Drug abuse,350,2011
+North Dakota,94,Drug abuse,559,2011
+Ohio,74,Drug abuse,242,2011
+Oklahoma,92,Drug abuse,351,2011
+Oregon,95,Drug abuse,820,2011
+Pennsylvania,93,Drug abuse,390,2011
+Rhode Island,83,Drug abuse,451,2011
+South Carolina,90,Drug abuse,480,2011
+South Dakota,83,Drug abuse,900,2011
+Tennessee,95,Drug abuse,431,2011
+Texas,93,Drug abuse,477,2011
+Utah,44,Drug abuse,606,2011
+Vermont,73,Drug abuse,207,2011
+Virginia,99,Drug abuse,328,2011
+Washington,57,Drug abuse,548,2011
+West Virginia,81,Drug abuse,129,2011
+Wisconsin,93,Drug abuse,648,2011
+Wyoming,96,Drug abuse,1025,2011
+United States,83,Weapons,82,2011
+Alabama,2,Weapons,11,2011
+Alaska,99,Weapons,36,2011
+Arizona,95,Weapons,39,2011
+Arkansas,74,Weapons,46,2011
+California,99,Weapons,143,2011
+Colorado,91,Weapons,83,2011
+Connecticut,98,Weapons,47,2011
+Delaware,100,Weapons,96,2011
+District of Columbia,0,Weapons,NA,2011
+Florida,100,Weapons,56,2011
+Georgia,94,Weapons,78,2011
+Hawaii,0,Weapons,NA,2011
+Idaho,94,Weapons,52,2011
+Illinois,22,Weapons,291,2011
+Indiana,76,Weapons,58,2011
+Iowa,88,Weapons,43,2011
+Kansas,70,Weapons,36,2011
+Kentucky,94,Weapons,26,2011
+Louisiana,53,Weapons,97,2011
+Maine,100,Weapons,31,2011
+Maryland,83,Weapons,158,2011
+Massachusetts,91,Weapons,33,2011
+Michigan,89,Weapons,56,2011
+Minnesota,100,Weapons,89,2011
+Mississippi,56,Weapons,55,2011
+Missouri,94,Weapons,61,2011
+Montana,90,Weapons,16,2011
+Nebraska,90,Weapons,65,2011
+Nevada,89,Weapons,88,2011
+New Hampshire,78,Weapons,7,2011
+New Jersey,99,Weapons,101,2011
+New Mexico,95,Weapons,77,2011
+New York,47,Weapons,39,2011
+North Carolina,96,Weapons,152,2011
+North Dakota,94,Weapons,33,2011
+Ohio,74,Weapons,48,2011
+Oklahoma,92,Weapons,55,2011
+Oregon,95,Weapons,56,2011
+Pennsylvania,93,Weapons,101,2011
+Rhode Island,83,Weapons,109,2011
+South Carolina,90,Weapons,98,2011
+South Dakota,83,Weapons,37,2011
+Tennessee,95,Weapons,93,2011
+Texas,93,Weapons,34,2011
+Utah,44,Weapons,65,2011
+Vermont,73,Weapons,18,2011
+Virginia,99,Weapons,47,2011
+Washington,57,Weapons,85,2011
+West Virginia,81,Weapons,20,2011
+Wisconsin,93,Weapons,166,2011
+Wyoming,96,Weapons,67,2011
+United States,84,Violent Crime Index,187,2012
+Alabama,2,Violent Crime Index,57,2012
+Alaska,64,Violent Crime Index,246,2012
+Arizona,91,Violent Crime Index,152,2012
+Arkansas,85,Violent Crime Index,143,2012
+California,98,Violent Crime Index,225,2012
+Colorado,91,Violent Crime Index,111,2012
+Connecticut,94,Violent Crime Index,162,2012
+Delaware,100,Violent Crime Index,389,2012
+District of Columbia,0,Violent Crime Index,NA,2012
+Florida,100,Violent Crime Index,263,2012
+Georgia,89,Violent Crime Index,169,2012
+Hawaii,11,Violent Crime Index,248,2012
+Idaho,99,Violent Crime Index,87,2012
+Illinois,22,Violent Crime Index,751,2012
+Indiana,64,Violent Crime Index,160,2012
+Iowa,88,Violent Crime Index,183,2012
+Kansas,72,Violent Crime Index,112,2012
+Kentucky,96,Violent Crime Index,91,2012
+Louisiana,50,Violent Crime Index,445,2012
+Maine,100,Violent Crime Index,54,2012
+Maryland,91,Violent Crime Index,295,2012
+Massachusetts,92,Violent Crime Index,177,2012
+Michigan,93,Violent Crime Index,135,2012
+Minnesota,87,Violent Crime Index,114,2012
+Mississippi,51,Violent Crime Index,63,2012
+Missouri,93,Violent Crime Index,187,2012
+Montana,94,Violent Crime Index,113,2012
+Nebraska,91,Violent Crime Index,115,2012
+Nevada,100,Violent Crime Index,243,2012
+New Hampshire,88,Violent Crime Index,54,2012
+New Jersey,97,Violent Crime Index,199,2012
+New Mexico,85,Violent Crime Index,202,2012
+New York,55,Violent Crime Index,218,2012
+North Carolina,90,Violent Crime Index,162,2012
+North Dakota,98,Violent Crime Index,89,2012
+Ohio,62,Violent Crime Index,100,2012
+Oklahoma,94,Violent Crime Index,130,2012
+Oregon,93,Violent Crime Index,133,2012
+Pennsylvania,96,Violent Crime Index,303,2012
+Rhode Island,99,Violent Crime Index,128,2012
+South Carolina,87,Violent Crime Index,146,2012
+South Dakota,90,Violent Crime Index,87,2012
+Tennessee,91,Violent Crime Index,281,2012
+Texas,97,Violent Crime Index,121,2012
+Utah,98,Violent Crime Index,76,2012
+Vermont,89,Violent Crime Index,70,2012
+Virginia,100,Violent Crime Index,74,2012
+Washington,75,Violent Crime Index,163,2012
+West Virginia,73,Violent Crime Index,57,2012
+Wisconsin,94,Violent Crime Index,234,2012
+Wyoming,90,Violent Crime Index,51,2012
+United States,84,Property Crime Index,914,2012
+Alabama,2,Property Crime Index,698,2012
+Alaska,64,Property Crime Index,1485,2012
+Arizona,91,Property Crime Index,1109,2012
+Arkansas,85,Property Crime Index,1001,2012
+California,98,Property Crime Index,669,2012
+Colorado,91,Property Crime Index,1108,2012
+Connecticut,94,Property Crime Index,599,2012
+Delaware,100,Property Crime Index,1245,2012
+District of Columbia,0,Property Crime Index,NA,2012
+Florida,100,Property Crime Index,1264,2012
+Georgia,89,Property Crime Index,927,2012
+Hawaii,11,Property Crime Index,826,2012
+Idaho,99,Property Crime Index,1198,2012
+Illinois,22,Property Crime Index,1395,2012
+Indiana,64,Property Crime Index,981,2012
+Iowa,88,Property Crime Index,1347,2012
+Kansas,72,Property Crime Index,809,2012
+Kentucky,96,Property Crime Index,562,2012
+Louisiana,50,Property Crime Index,1385,2012
+Maine,100,Property Crime Index,1133,2012
+Maryland,91,Property Crime Index,1100,2012
+Massachusetts,92,Property Crime Index,305,2012
+Michigan,93,Property Crime Index,658,2012
+Minnesota,87,Property Crime Index,1267,2012
+Mississippi,51,Property Crime Index,1004,2012
+Missouri,93,Property Crime Index,1259,2012
+Montana,94,Property Crime Index,1535,2012
+Nebraska,91,Property Crime Index,1711,2012
+Nevada,100,Property Crime Index,941,2012
+New Hampshire,88,Property Crime Index,650,2012
+New Jersey,97,Property Crime Index,523,2012
+New Mexico,85,Property Crime Index,1278,2012
+New York,55,Property Crime Index,1024,2012
+North Carolina,90,Property Crime Index,969,2012
+North Dakota,98,Property Crime Index,1343,2012
+Ohio,62,Property Crime Index,703,2012
+Oklahoma,94,Property Crime Index,958,2012
+Oregon,93,Property Crime Index,1215,2012
+Pennsylvania,96,Property Crime Index,770,2012
+Rhode Island,99,Property Crime Index,735,2012
+South Carolina,87,Property Crime Index,911,2012
+South Dakota,90,Property Crime Index,1495,2012
+Tennessee,91,Property Crime Index,949,2012
+Texas,97,Property Crime Index,785,2012
+Utah,98,Property Crime Index,1328,2012
+Vermont,89,Property Crime Index,391,2012
+Virginia,100,Property Crime Index,620,2012
+Washington,75,Property Crime Index,1039,2012
+West Virginia,73,Property Crime Index,323,2012
+Wisconsin,94,Property Crime Index,1793,2012
+Wyoming,90,Property Crime Index,1264,2012
+United States,84,Drug abuse,417,2012
+Alabama,2,Drug abuse,286,2012
+Alaska,64,Drug abuse,622,2012
+Arizona,91,Drug abuse,653,2012
+Arkansas,85,Drug abuse,328,2012
+California,98,Drug abuse,253,2012
+Colorado,91,Drug abuse,611,2012
+Connecticut,94,Drug abuse,211,2012
+Delaware,100,Drug abuse,546,2012
+District of Columbia,0,Drug abuse,NA,2012
+Florida,100,Drug abuse,480,2012
+Georgia,89,Drug abuse,302,2012
+Hawaii,11,Drug abuse,880,2012
+Idaho,99,Drug abuse,549,2012
+Illinois,22,Drug abuse,1337,2012
+Indiana,64,Drug abuse,387,2012
+Iowa,88,Drug abuse,403,2012
+Kansas,72,Drug abuse,369,2012
+Kentucky,96,Drug abuse,166,2012
+Louisiana,50,Drug abuse,477,2012
+Maine,100,Drug abuse,412,2012
+Maryland,91,Drug abuse,617,2012
+Massachusetts,92,Drug abuse,84,2012
+Michigan,93,Drug abuse,274,2012
+Minnesota,87,Drug abuse,525,2012
+Mississippi,51,Drug abuse,377,2012
+Missouri,93,Drug abuse,468,2012
+Montana,94,Drug abuse,406,2012
+Nebraska,91,Drug abuse,719,2012
+Nevada,100,Drug abuse,405,2012
+New Hampshire,88,Drug abuse,543,2012
+New Jersey,97,Drug abuse,526,2012
+New Mexico,85,Drug abuse,644,2012
+New York,55,Drug abuse,485,2012
+North Carolina,90,Drug abuse,319,2012
+North Dakota,98,Drug abuse,501,2012
+Ohio,62,Drug abuse,252,2012
+Oklahoma,94,Drug abuse,354,2012
+Oregon,93,Drug abuse,699,2012
+Pennsylvania,96,Drug abuse,387,2012
+Rhode Island,99,Drug abuse,407,2012
+South Carolina,87,Drug abuse,516,2012
+South Dakota,90,Drug abuse,1043,2012
+Tennessee,91,Drug abuse,431,2012
+Texas,97,Drug abuse,471,2012
+Utah,98,Drug abuse,492,2012
+Vermont,89,Drug abuse,239,2012
+Virginia,100,Drug abuse,337,2012
+Washington,75,Drug abuse,399,2012
+West Virginia,73,Drug abuse,138,2012
+Wisconsin,94,Drug abuse,648,2012
+Wyoming,90,Drug abuse,1122,2012
+United States,84,Weapons,72,2012
+Alabama,2,Weapons,11,2012
+Alaska,64,Weapons,50,2012
+Arizona,91,Weapons,34,2012
+Arkansas,85,Weapons,44,2012
+California,98,Weapons,123,2012
+Colorado,91,Weapons,65,2012
+Connecticut,94,Weapons,45,2012
+Delaware,100,Weapons,73,2012
+District of Columbia,0,Weapons,NA,2012
+Florida,100,Weapons,56,2012
+Georgia,89,Weapons,61,2012
+Hawaii,11,Weapons,67,2012
+Idaho,99,Weapons,70,2012
+Illinois,22,Weapons,291,2012
+Indiana,64,Weapons,45,2012
+Iowa,88,Weapons,49,2012
+Kansas,72,Weapons,23,2012
+Kentucky,96,Weapons,20,2012
+Louisiana,50,Weapons,90,2012
+Maine,100,Weapons,26,2012
+Maryland,91,Weapons,102,2012
+Massachusetts,92,Weapons,28,2012
+Michigan,93,Weapons,53,2012
+Minnesota,87,Weapons,47,2012
+Mississippi,51,Weapons,64,2012
+Missouri,93,Weapons,61,2012
+Montana,94,Weapons,15,2012
+Nebraska,91,Weapons,57,2012
+Nevada,100,Weapons,40,2012
+New Hampshire,88,Weapons,0,2012
+New Jersey,97,Weapons,80,2012
+New Mexico,85,Weapons,78,2012
+New York,55,Weapons,56,2012
+North Carolina,90,Weapons,138,2012
+North Dakota,98,Weapons,37,2012
+Ohio,62,Weapons,43,2012
+Oklahoma,94,Weapons,49,2012
+Oregon,93,Weapons,45,2012
+Pennsylvania,96,Weapons,90,2012
+Rhode Island,99,Weapons,130,2012
+South Carolina,87,Weapons,87,2012
+South Dakota,90,Weapons,60,2012
+Tennessee,91,Weapons,85,2012
+Texas,97,Weapons,29,2012
+Utah,98,Weapons,85,2012
+Vermont,89,Weapons,17,2012
+Virginia,100,Weapons,41,2012
+Washington,75,Weapons,60,2012
+West Virginia,73,Weapons,10,2012
+Wisconsin,94,Weapons,143,2012
+Wyoming,90,Weapons,66,2012
+United States,84,Aggravated assault,99,2013
+Alabama,2,Aggravated assault,34,2013
+Alaska,64,Aggravated assault,196,2013
+Arizona,98,Aggravated assault,90,2013
+Arkansas,93,Aggravated assault,63,2013
+California,100,Aggravated assault,118,2013
+Colorado,97,Aggravated assault,68,2013
+Connecticut,95,Aggravated assault,61,2013
+Delaware,100,Aggravated assault,235,2013
+District of Columbia,0,Aggravated assault,NA,2013
+Florida,100,Aggravated assault,145,2013
+Georgia,90,Aggravated assault,78,2013
+Hawaii,11,Aggravated assault,88,2013
+Idaho,100,Aggravated assault,65,2013
+Illinois,22,Aggravated assault,298,2013
+Indiana,58,Aggravated assault,131,2013
+Iowa,90,Aggravated assault,128,2013
+Kansas,71,Aggravated assault,61,2013
+Kentucky,98,Aggravated assault,33,2013
+Louisiana,67,Aggravated assault,262,2013
+Maine,100,Aggravated assault,32,2013
+Maryland,66,Aggravated assault,131,2013
+Massachusetts,96,Aggravated assault,123,2013
+Michigan,93,Aggravated assault,78,2013
+Minnesota,100,Aggravated assault,77,2013
+Mississippi,43,Aggravated assault,35,2013
+Missouri,92,Aggravated assault,90,2013
+Montana,96,Aggravated assault,59,2013
+Nebraska,89,Aggravated assault,49,2013
+Nevada,91,Aggravated assault,155,2013
+New Hampshire,89,Aggravated assault,48,2013
+New Jersey,96,Aggravated assault,86,2013
+New Mexico,65,Aggravated assault,128,2013
+New York,53,Aggravated assault,85,2013
+North Carolina,89,Aggravated assault,88,2013
+North Dakota,99,Aggravated assault,43,2013
+Ohio,72,Aggravated assault,41,2013
+Oklahoma,96,Aggravated assault,73,2013
+Oregon,37,Aggravated assault,82,2013
+Pennsylvania,93,Aggravated assault,169,2013
+Rhode Island,100,Aggravated assault,54,2013
+South Carolina,96,Aggravated assault,81,2013
+South Dakota,92,Aggravated assault,76,2013
+Tennessee,99,Aggravated assault,177,2013
+Texas,97,Aggravated assault,68,2013
+Utah,96,Aggravated assault,44,2013
+Vermont,92,Aggravated assault,40,2013
+Virginia,100,Aggravated assault,34,2013
+Washington,85,Aggravated assault,85,2013
+West Virginia,86,Aggravated assault,28,2013
+Wisconsin,98,Aggravated assault,110,2013
+Wyoming,95,Aggravated assault,39,2013
+United States,84,Robbery,63,2013
+Alabama,2,Robbery,34,2013
+Alaska,64,Robbery,25,2013
+Arizona,98,Robbery,38,2013
+Arkansas,93,Robbery,27,2013
+California,100,Robbery,76,2013
+Colorado,97,Robbery,25,2013
+Connecticut,95,Robbery,57,2013
+Delaware,100,Robbery,125,2013
+District of Columbia,0,Robbery,NA,2013
+Florida,100,Robbery,91,2013
+Georgia,90,Robbery,58,2013
+Hawaii,11,Robbery,47,2013
+Idaho,100,Robbery,7,2013
+Illinois,22,Robbery,363,2013
+Indiana,58,Robbery,51,2013
+Iowa,90,Robbery,29,2013
+Kansas,71,Robbery,8,2013
+Kentucky,98,Robbery,38,2013
+Louisiana,67,Robbery,54,2013
+Maine,100,Robbery,16,2013
+Maryland,66,Robbery,155,2013
+Massachusetts,96,Robbery,39,2013
+Michigan,93,Robbery,46,2013
+Minnesota,100,Robbery,61,2013
+Mississippi,43,Robbery,42,2013
+Missouri,92,Robbery,64,2013
+Montana,96,Robbery,2,2013
+Nebraska,89,Robbery,33,2013
+Nevada,91,Robbery,60,2013
+New Hampshire,89,Robbery,25,2013
+New Jersey,96,Robbery,102,2013
+New Mexico,65,Robbery,7,2013
+New York,53,Robbery,85,2013
+North Carolina,89,Robbery,65,2013
+North Dakota,99,Robbery,3,2013
+Ohio,72,Robbery,52,2013
+Oklahoma,96,Robbery,33,2013
+Oregon,37,Robbery,20,2013
+Pennsylvania,93,Robbery,101,2013
+Rhode Island,100,Robbery,42,2013
+South Carolina,96,Robbery,40,2013
+South Dakota,92,Robbery,1,2013
+Tennessee,99,Robbery,65,2013
+Texas,97,Robbery,41,2013
+Utah,96,Robbery,14,2013
+Vermont,92,Robbery,7,2013
+Virginia,100,Robbery,34,2013
+Washington,85,Robbery,51,2013
+West Virginia,86,Robbery,4,2013
+Wisconsin,98,Robbery,90,2013
+Wyoming,95,Robbery,4,2013
+United States,84,Larceny,786,2013
+Alabama,2,Larceny,1156,2013
+Alaska,64,Larceny,1404,2013
+Arizona,98,Larceny,957,2013
+Arkansas,93,Larceny,856,2013
+California,100,Larceny,532,2013
+Colorado,97,Larceny,1069,2013
+Connecticut,95,Larceny,545,2013
+Delaware,100,Larceny,1008,2013
+District of Columbia,0,Larceny,NA,2013
+Florida,100,Larceny,1119,2013
+Georgia,90,Larceny,860,2013
+Hawaii,11,Larceny,791,2013
+Idaho,100,Larceny,957,2013
+Illinois,22,Larceny,1243,2013
+Indiana,58,Larceny,1014,2013
+Iowa,90,Larceny,1310,2013
+Kansas,71,Larceny,601,2013
+Kentucky,98,Larceny,528,2013
+Louisiana,67,Larceny,1294,2013
+Maine,100,Larceny,941,2013
+Maryland,66,Larceny,954,2013
+Massachusetts,96,Larceny,287,2013
+Michigan,93,Larceny,610,2013
+Minnesota,100,Larceny,1083,2013
+Mississippi,43,Larceny,993,2013
+Missouri,92,Larceny,1001,2013
+Montana,96,Larceny,1224,2013
+Nebraska,89,Larceny,1385,2013
+Nevada,91,Larceny,809,2013
+New Hampshire,89,Larceny,572,2013
+New Jersey,96,Larceny,415,2013
+New Mexico,65,Larceny,1247,2013
+New York,53,Larceny,719,2013
+North Carolina,89,Larceny,846,2013
+North Dakota,99,Larceny,1007,2013
+Ohio,72,Larceny,542,2013
+Oklahoma,96,Larceny,863,2013
+Oregon,37,Larceny,1129,2013
+Pennsylvania,93,Larceny,688,2013
+Rhode Island,100,Larceny,620,2013
+South Carolina,96,Larceny,921,2013
+South Dakota,92,Larceny,1097,2013
+Tennessee,99,Larceny,884,2013
+Texas,97,Larceny,696,2013
+Utah,96,Larceny,1110,2013
+Vermont,92,Larceny,265,2013
+Virginia,100,Larceny,541,2013
+Washington,85,Larceny,842,2013
+West Virginia,86,Larceny,233,2013
+Wisconsin,98,Larceny,1462,2013
+Wyoming,95,Larceny,1278,2013
+United States,84,Drug abuse,367,2013
+Alabama,2,Drug abuse,181,2013
+Alaska,64,Drug abuse,462,2013
+Arizona,98,Drug abuse,555,2013
+Arkansas,93,Drug abuse,282,2013
+California,100,Drug abuse,227,2013
+Colorado,97,Drug abuse,576,2013
+Connecticut,95,Drug abuse,202,2013
+Delaware,100,Drug abuse,538,2013
+District of Columbia,0,Drug abuse,NA,2013
+Florida,100,Drug abuse,437,2013
+Georgia,90,Drug abuse,297,2013
+Hawaii,11,Drug abuse,1061,2013
+Idaho,100,Drug abuse,479,2013
+Illinois,22,Drug abuse,1295,2013
+Indiana,58,Drug abuse,262,2013
+Iowa,90,Drug abuse,337,2013
+Kansas,71,Drug abuse,358,2013
+Kentucky,98,Drug abuse,156,2013
+Louisiana,67,Drug abuse,485,2013
+Maine,100,Drug abuse,404,2013
+Maryland,66,Drug abuse,605,2013
+Massachusetts,96,Drug abuse,61,2013
+Michigan,93,Drug abuse,247,2013
+Minnesota,100,Drug abuse,474,2013
+Mississippi,43,Drug abuse,299,2013
+Missouri,92,Drug abuse,446,2013
+Montana,96,Drug abuse,377,2013
+Nebraska,89,Drug abuse,684,2013
+Nevada,91,Drug abuse,344,2013
+New Hampshire,89,Drug abuse,476,2013
+New Jersey,96,Drug abuse,448,2013
+New Mexico,65,Drug abuse,391,2013
+New York,53,Drug abuse,371,2013
+North Carolina,89,Drug abuse,266,2013
+North Dakota,99,Drug abuse,519,2013
+Ohio,72,Drug abuse,197,2013
+Oklahoma,96,Drug abuse,325,2013
+Oregon,37,Drug abuse,789,2013
+Pennsylvania,93,Drug abuse,349,2013
+Rhode Island,100,Drug abuse,167,2013
+South Carolina,96,Drug abuse,448,2013
+South Dakota,92,Drug abuse,999,2013
+Tennessee,99,Drug abuse,418,2013
+Texas,97,Drug abuse,411,2013
+Utah,96,Drug abuse,469,2013
+Vermont,92,Drug abuse,123,2013
+Virginia,100,Drug abuse,306,2013
+Washington,85,Drug abuse,314,2013
+West Virginia,86,Drug abuse,109,2013
+Wisconsin,98,Drug abuse,598,2013
+Wyoming,95,Drug abuse,850,2013
+United States,84,Weapons,63,2013
+Alabama,2,Weapons,23,2013
+Alaska,64,Weapons,42,2013
+Arizona,98,Weapons,31,2013
+Arkansas,93,Weapons,42,2013
+California,100,Weapons,103,2013
+Colorado,97,Weapons,57,2013
+Connecticut,95,Weapons,45,2013
+Delaware,100,Weapons,85,2013
+District of Columbia,0,Weapons,NA,2013
+Florida,100,Weapons,44,2013
+Georgia,90,Weapons,61,2013
+Hawaii,11,Weapons,41,2013
+Idaho,100,Weapons,63,2013
+Illinois,22,Weapons,250,2013
+Indiana,58,Weapons,48,2013
+Iowa,90,Weapons,49,2013
+Kansas,71,Weapons,21,2013
+Kentucky,98,Weapons,21,2013
+Louisiana,67,Weapons,81,2013
+Maine,100,Weapons,14,2013
+Maryland,66,Weapons,78,2013
+Massachusetts,96,Weapons,26,2013
+Michigan,93,Weapons,42,2013
+Minnesota,100,Weapons,74,2013
+Mississippi,43,Weapons,67,2013
+Missouri,92,Weapons,60,2013
+Montana,96,Weapons,17,2013
+Nebraska,89,Weapons,56,2013
+Nevada,91,Weapons,53,2013
+New Hampshire,89,Weapons,6,2013
+New Jersey,96,Weapons,74,2013
+New Mexico,65,Weapons,43,2013
+New York,53,Weapons,40,2013
+North Carolina,89,Weapons,114,2013
+North Dakota,99,Weapons,25,2013
+Ohio,72,Weapons,35,2013
+Oklahoma,96,Weapons,47,2013
+Oregon,37,Weapons,43,2013
+Pennsylvania,93,Weapons,98,2013
+Rhode Island,100,Weapons,89,2013
+South Carolina,96,Weapons,94,2013
+South Dakota,92,Weapons,53,2013
+Tennessee,99,Weapons,75,2013
+Texas,97,Weapons,24,2013
+Utah,96,Weapons,60,2013
+Vermont,92,Weapons,22,2013
+Virginia,100,Weapons,36,2013
+Washington,85,Weapons,44,2013
+West Virginia,86,Weapons,12,2013
+Wisconsin,98,Weapons,124,2013
+Wyoming,95,Weapons,48,2013
+United States,85,Aggravated assault,93,2014
+Alabama,2,Aggravated assault,11,2014
+Alaska,64,Aggravated assault,189,2014
+Arizona,94,Aggravated assault,80,2014
+Arkansas,89,Aggravated assault,75,2014
+California,100,Aggravated assault,118,2014
+Colorado,97,Aggravated assault,67,2014
+Connecticut,100,Aggravated assault,70,2014
+Delaware,100,Aggravated assault,192,2014
+District of Columbia,0,Aggravated assault,NA,2014
+Florida,100,Aggravated assault,139,2014
+Georgia,87,Aggravated assault,81,2014
+Hawaii,11,Aggravated assault,87,2014
+Idaho,100,Aggravated assault,42,2014
+Illinois,22,Aggravated assault,103,2014
+Indiana,73,Aggravated assault,103,2014
+Iowa,91,Aggravated assault,112,2014
+Kansas,68,Aggravated assault,66,2014
+Kentucky,99,Aggravated assault,26,2014
+Louisiana,61,Aggravated assault,142,2014
+Maine,100,Aggravated assault,33,2014
+Maryland,77,Aggravated assault,146,2014
+Massachusetts,90,Aggravated assault,121,2014
+Michigan,95,Aggravated assault,72,2014
+Minnesota,100,Aggravated assault,78,2014
+Mississippi,45,Aggravated assault,33,2014
+Missouri,94,Aggravated assault,90,2014
+Montana,96,Aggravated assault,74,2014
+Nebraska,90,Aggravated assault,75,2014
+Nevada,100,Aggravated assault,203,2014
+New Hampshire,92,Aggravated assault,51,2014
+New Jersey,95,Aggravated assault,82,2014
+New Mexico,78,Aggravated assault,135,2014
+New York,51,Aggravated assault,82,2014
+North Carolina,90,Aggravated assault,82,2014
+North Dakota,96,Aggravated assault,32,2014
+Ohio,74,Aggravated assault,44,2014
+Oklahoma,98,Aggravated assault,72,2014
+Oregon,51,Aggravated assault,67,2014
+Pennsylvania,97,Aggravated assault,145,2014
+Rhode Island,100,Aggravated assault,50,2014
+South Carolina,87,Aggravated assault,73,2014
+South Dakota,89,Aggravated assault,74,2014
+Tennessee,98,Aggravated assault,183,2014
+Texas,99,Aggravated assault,62,2014
+Utah,97,Aggravated assault,40,2014
+Vermont,89,Aggravated assault,39,2014
+Virginia,99,Aggravated assault,41,2014
+Washington,92,Aggravated assault,73,2014
+West Virginia,75,Aggravated assault,33,2014
+Wisconsin,97,Aggravated assault,112,2014
+Wyoming,90,Aggravated assault,50,2014
+United States,85,Robbery,60,2014
+Alabama,2,Robbery,23,2014
+Alaska,64,Robbery,43,2014
+Arizona,94,Robbery,32,2014
+Arkansas,89,Robbery,30,2014
+California,100,Robbery,67,2014
+Colorado,97,Robbery,22,2014
+Connecticut,100,Robbery,57,2014
+Delaware,100,Robbery,160,2014
+District of Columbia,0,Robbery,NA,2014
+Florida,100,Robbery,90,2014
+Georgia,87,Robbery,61,2014
+Hawaii,11,Robbery,54,2014
+Idaho,100,Robbery,5,2014
+Illinois,22,Robbery,318,2014
+Indiana,73,Robbery,51,2014
+Iowa,91,Robbery,28,2014
+Kansas,68,Robbery,19,2014
+Kentucky,99,Robbery,47,2014
+Louisiana,61,Robbery,46,2014
+Maine,100,Robbery,4,2014
+Maryland,77,Robbery,176,2014
+Massachusetts,90,Robbery,45,2014
+Michigan,95,Robbery,33,2014
+Minnesota,100,Robbery,61,2014
+Mississippi,45,Robbery,42,2014
+Missouri,94,Robbery,55,2014
+Montana,96,Robbery,3,2014
+Nebraska,90,Robbery,42,2014
+Nevada,100,Robbery,73,2014
+New Hampshire,92,Robbery,22,2014
+New Jersey,95,Robbery,89,2014
+New Mexico,78,Robbery,3,2014
+New York,51,Robbery,85,2014
+North Carolina,90,Robbery,60,2014
+North Dakota,96,Robbery,8,2014
+Ohio,74,Robbery,52,2014
+Oklahoma,98,Robbery,34,2014
+Oregon,51,Robbery,35,2014
+Pennsylvania,97,Robbery,97,2014
+Rhode Island,100,Robbery,33,2014
+South Carolina,87,Robbery,47,2014
+South Dakota,89,Robbery,10,2014
+Tennessee,98,Robbery,58,2014
+Texas,99,Robbery,34,2014
+Utah,97,Robbery,12,2014
+Vermont,89,Robbery,4,2014
+Virginia,99,Robbery,35,2014
+Washington,92,Robbery,52,2014
+West Virginia,75,Robbery,10,2014
+Wisconsin,97,Robbery,92,2014
+Wyoming,90,Robbery,2,2014
+United States,85,Larceny,725,2014
+Alabama,2,Larceny,949,2014
+Alaska,64,Larceny,1187,2014
+Arizona,94,Larceny,872,2014
+Arkansas,89,Larceny,755,2014
+California,100,Larceny,466,2014
+Colorado,97,Larceny,1111,2014
+Connecticut,100,Larceny,510,2014
+Delaware,100,Larceny,1020,2014
+District of Columbia,0,Larceny,NA,2014
+Florida,100,Larceny,1059,2014
+Georgia,87,Larceny,843,2014
+Hawaii,11,Larceny,750,2014
+Idaho,100,Larceny,916,2014
+Illinois,22,Larceny,1123,2014
+Indiana,73,Larceny,824,2014
+Iowa,91,Larceny,1247,2014
+Kansas,68,Larceny,514,2014
+Kentucky,99,Larceny,491,2014
+Louisiana,61,Larceny,1021,2014
+Maine,100,Larceny,774,2014
+Maryland,77,Larceny,928,2014
+Massachusetts,90,Larceny,246,2014
+Michigan,95,Larceny,500,2014
+Minnesota,100,Larceny,954,2014
+Mississippi,45,Larceny,910,2014
+Missouri,94,Larceny,904,2014
+Montana,96,Larceny,1104,2014
+Nebraska,90,Larceny,1746,2014
+Nevada,100,Larceny,742,2014
+New Hampshire,92,Larceny,504,2014
+New Jersey,95,Larceny,401,2014
+New Mexico,78,Larceny,736,2014
+New York,51,Larceny,634,2014
+North Carolina,90,Larceny,785,2014
+North Dakota,96,Larceny,984,2014
+Ohio,74,Larceny,542,2014
+Oklahoma,98,Larceny,813,2014
+Oregon,51,Larceny,981,2014
+Pennsylvania,97,Larceny,604,2014
+Rhode Island,100,Larceny,580,2014
+South Carolina,87,Larceny,807,2014
+South Dakota,89,Larceny,1149,2014
+Tennessee,98,Larceny,813,2014
+Texas,99,Larceny,611,2014
+Utah,97,Larceny,1008,2014
+Vermont,89,Larceny,239,2014
+Virginia,99,Larceny,506,2014
+Washington,92,Larceny,712,2014
+West Virginia,75,Larceny,211,2014
+Wisconsin,97,Larceny,1739,2014
+Wyoming,90,Larceny,1115,2014
+United States,85,Drug abuse,339,2014
+Alabama,2,Drug abuse,102,2014
+Alaska,64,Drug abuse,391,2014
+Arizona,94,Drug abuse,509,2014
+Arkansas,89,Drug abuse,241,2014
+California,100,Drug abuse,208,2014
+Colorado,97,Drug abuse,625,2014
+Connecticut,100,Drug abuse,195,2014
+Delaware,100,Drug abuse,502,2014
+District of Columbia,0,Drug abuse,NA,2014
+Florida,100,Drug abuse,402,2014
+Georgia,87,Drug abuse,252,2014
+Hawaii,11,Drug abuse,1024,2014
+Idaho,100,Drug abuse,456,2014
+Illinois,22,Drug abuse,995,2014
+Indiana,73,Drug abuse,231,2014
+Iowa,91,Drug abuse,364,2014
+Kansas,68,Drug abuse,347,2014
+Kentucky,99,Drug abuse,146,2014
+Louisiana,61,Drug abuse,336,2014
+Maine,100,Drug abuse,384,2014
+Maryland,77,Drug abuse,500,2014
+Massachusetts,90,Drug abuse,47,2014
+Michigan,95,Drug abuse,230,2014
+Minnesota,100,Drug abuse,445,2014
+Mississippi,45,Drug abuse,237,2014
+Missouri,94,Drug abuse,398,2014
+Montana,96,Drug abuse,385,2014
+Nebraska,90,Drug abuse,867,2014
+Nevada,100,Drug abuse,338,2014
+New Hampshire,92,Drug abuse,507,2014
+New Jersey,95,Drug abuse,422,2014
+New Mexico,78,Drug abuse,388,2014
+New York,51,Drug abuse,338,2014
+North Carolina,90,Drug abuse,265,2014
+North Dakota,96,Drug abuse,594,2014
+Ohio,74,Drug abuse,206,2014
+Oklahoma,98,Drug abuse,332,2014
+Oregon,51,Drug abuse,546,2014
+Pennsylvania,97,Drug abuse,335,2014
+Rhode Island,100,Drug abuse,95,2014
+South Carolina,87,Drug abuse,434,2014
+South Dakota,89,Drug abuse,976,2014
+Tennessee,98,Drug abuse,372,2014
+Texas,99,Drug abuse,377,2014
+Utah,97,Drug abuse,471,2014
+Vermont,89,Drug abuse,37,2014
+Virginia,99,Drug abuse,277,2014
+Washington,92,Drug abuse,261,2014
+West Virginia,75,Drug abuse,99,2014
+Wisconsin,97,Drug abuse,557,2014
+Wyoming,90,Drug abuse,890,2014
+United States,85,Weapons,61,2014
+Alabama,2,Weapons,11,2014
+Alaska,64,Weapons,69,2014
+Arizona,94,Weapons,26,2014
+Arkansas,89,Weapons,36,2014
+California,100,Weapons,91,2014
+Colorado,97,Weapons,62,2014
+Connecticut,100,Weapons,53,2014
+Delaware,100,Weapons,124,2014
+District of Columbia,0,Weapons,NA,2014
+Florida,100,Weapons,46,2014
+Georgia,87,Weapons,47,2014
+Hawaii,11,Weapons,33,2014
+Idaho,100,Weapons,44,2014
+Illinois,22,Weapons,254,2014
+Indiana,73,Weapons,44,2014
+Iowa,91,Weapons,49,2014
+Kansas,68,Weapons,17,2014
+Kentucky,99,Weapons,27,2014
+Louisiana,61,Weapons,60,2014
+Maine,100,Weapons,12,2014
+Maryland,77,Weapons,85,2014
+Massachusetts,90,Weapons,28,2014
+Michigan,95,Weapons,34,2014
+Minnesota,100,Weapons,71,2014
+Mississippi,45,Weapons,75,2014
+Missouri,94,Weapons,50,2014
+Montana,96,Weapons,22,2014
+Nebraska,90,Weapons,77,2014
+Nevada,100,Weapons,54,2014
+New Hampshire,92,Weapons,6,2014
+New Jersey,95,Weapons,89,2014
+New Mexico,78,Weapons,36,2014
+New York,51,Weapons,49,2014
+North Carolina,90,Weapons,114,2014
+North Dakota,96,Weapons,32,2014
+Ohio,74,Weapons,36,2014
+Oklahoma,98,Weapons,53,2014
+Oregon,51,Weapons,36,2014
+Pennsylvania,97,Weapons,89,2014
+Rhode Island,100,Weapons,98,2014
+South Carolina,87,Weapons,81,2014
+South Dakota,89,Weapons,36,2014
+Tennessee,98,Weapons,71,2014
+Texas,99,Weapons,20,2014
+Utah,97,Weapons,59,2014
+Vermont,89,Weapons,14,2014
+Virginia,99,Weapons,34,2014
+Washington,92,Weapons,41,2014
+West Virginia,75,Weapons,21,2014
+Wisconsin,97,Weapons,149,2014
+Wyoming,90,Weapons,52,2014
+United States,83,Aggravated assault,88,2015
+Alabama,75,Aggravated assault,51,2015
+Alaska,100,Aggravated assault,169,2015
+Arizona,75,Aggravated assault,82,2015
+Arkansas,90,Aggravated assault,96,2015
+California,99,Aggravated assault,106,2015
+Colorado,94,Aggravated assault,78,2015
+Connecticut,92,Aggravated assault,55,2015
+Delaware,100,Aggravated assault,279,2015
+District of Columbia,0,Aggravated assault,NA,2015
+Florida,100,Aggravated assault,129,2015
+Georgia,76,Aggravated assault,69,2015
+Hawaii,81,Aggravated assault,56,2015
+Idaho,92,Aggravated assault,70,2015
+Illinois,22,Aggravated assault,94,2015
+Indiana,71,Aggravated assault,85,2015
+Iowa,80,Aggravated assault,163,2015
+Kansas,65,Aggravated assault,59,2015
+Kentucky,99,Aggravated assault,25,2015
+Louisiana,53,Aggravated assault,146,2015
+Maine,100,Aggravated assault,30,2015
+Maryland,76,Aggravated assault,134,2015
+Massachusetts,91,Aggravated assault,113,2015
+Michigan,93,Aggravated assault,78,2015
+Minnesota,96,Aggravated assault,88,2015
+Mississippi,40,Aggravated assault,14,2015
+Missouri,88,Aggravated assault,101,2015
+Montana,86,Aggravated assault,74,2015
+Nebraska,62,Aggravated assault,37,2015
+Nevada,100,Aggravated assault,196,2015
+New Hampshire,92,Aggravated assault,36,2015
+New Jersey,91,Aggravated assault,74,2015
+New Mexico,76,Aggravated assault,126,2015
+New York,53,Aggravated assault,77,2015
+North Carolina,69,Aggravated assault,81,2015
+North Dakota,98,Aggravated assault,62,2015
+Ohio,71,Aggravated assault,34,2015
+Oklahoma,91,Aggravated assault,72,2015
+Oregon,48,Aggravated assault,87,2015
+Pennsylvania,94,Aggravated assault,131,2015
+Rhode Island,100,Aggravated assault,49,2015
+South Carolina,83,Aggravated assault,65,2015
+South Dakota,92,Aggravated assault,52,2015
+Tennessee,96,Aggravated assault,169,2015
+Texas,98,Aggravated assault,61,2015
+Utah,95,Aggravated assault,39,2015
+Vermont,93,Aggravated assault,39,2015
+Virginia,95,Aggravated assault,35,2015
+Washington,91,Aggravated assault,76,2015
+West Virginia,58,Aggravated assault,35,2015
+Wisconsin,95,Aggravated assault,89,2015
+Wyoming,89,Aggravated assault,73,2015
+United States,83,Robbery,57,2015
+Alabama,75,Robbery,37,2015
+Alaska,100,Robbery,29,2015
+Arizona,75,Robbery,21,2015
+Arkansas,90,Robbery,27,2015
+California,99,Robbery,64,2015
+Colorado,94,Robbery,26,2015
+Connecticut,92,Robbery,44,2015
+Delaware,100,Robbery,123,2015
+District of Columbia,0,Robbery,NA,2015
+Florida,100,Robbery,83,2015
+Georgia,76,Robbery,45,2015
+Hawaii,81,Robbery,83,2015
+Idaho,92,Robbery,4,2015
+Illinois,22,Robbery,256,2015
+Indiana,71,Robbery,54,2015
+Iowa,80,Robbery,33,2015
+Kansas,65,Robbery,22,2015
+Kentucky,99,Robbery,42,2015
+Louisiana,53,Robbery,46,2015
+Maine,100,Robbery,6,2015
+Maryland,76,Robbery,161,2015
+Massachusetts,91,Robbery,34,2015
+Michigan,93,Robbery,29,2015
+Minnesota,96,Robbery,68,2015
+Mississippi,40,Robbery,23,2015
+Missouri,88,Robbery,52,2015
+Montana,86,Robbery,5,2015
+Nebraska,62,Robbery,20,2015
+Nevada,100,Robbery,99,2015
+New Hampshire,92,Robbery,9,2015
+New Jersey,91,Robbery,73,2015
+New Mexico,76,Robbery,6,2015
+New York,53,Robbery,76,2015
+North Carolina,69,Robbery,76,2015
+North Dakota,98,Robbery,11,2015
+Ohio,71,Robbery,34,2015
+Oklahoma,91,Robbery,33,2015
+Oregon,48,Robbery,24,2015
+Pennsylvania,94,Robbery,84,2015
+Rhode Island,100,Robbery,26,2015
+South Carolina,83,Robbery,40,2015
+South Dakota,92,Robbery,11,2015
+Tennessee,96,Robbery,59,2015
+Texas,98,Robbery,47,2015
+Utah,95,Robbery,14,2015
+Vermont,93,Robbery,6,2015
+Virginia,95,Robbery,34,2015
+Washington,91,Robbery,49,2015
+West Virginia,58,Robbery,9,2015
+Wisconsin,95,Robbery,81,2015
+Wyoming,89,Robbery,11,2015
+United States,83,Larceny,652,2015
+Alabama,75,Larceny,430,2015
+Alaska,100,Larceny,750,2015
+Arizona,75,Larceny,855,2015
+Arkansas,90,Larceny,755,2015
+California,99,Larceny,373,2015
+Colorado,94,Larceny,1029,2015
+Connecticut,92,Larceny,489,2015
+Delaware,100,Larceny,888,2015
+District of Columbia,0,Larceny,NA,2015
+Florida,100,Larceny,1006,2015
+Georgia,76,Larceny,700,2015
+Hawaii,81,Larceny,803,2015
+Idaho,92,Larceny,866,2015
+Illinois,22,Larceny,1095,2015
+Indiana,71,Larceny,683,2015
+Iowa,80,Larceny,1206,2015
+Kansas,65,Larceny,618,2015
+Kentucky,99,Larceny,418,2015
+Louisiana,53,Larceny,968,2015
+Maine,100,Larceny,706,2015
+Maryland,76,Larceny,864,2015
+Massachusetts,91,Larceny,224,2015
+Michigan,93,Larceny,482,2015
+Minnesota,96,Larceny,949,2015
+Mississippi,40,Larceny,705,2015
+Missouri,88,Larceny,852,2015
+Montana,86,Larceny,917,2015
+Nebraska,62,Larceny,1101,2015
+Nevada,100,Larceny,677,2015
+New Hampshire,92,Larceny,373,2015
+New Jersey,91,Larceny,345,2015
+New Mexico,76,Larceny,747,2015
+New York,53,Larceny,599,2015
+North Carolina,69,Larceny,805,2015
+North Dakota,98,Larceny,926,2015
+Ohio,71,Larceny,510,2015
+Oklahoma,91,Larceny,738,2015
+Oregon,48,Larceny,999,2015
+Pennsylvania,94,Larceny,542,2015
+Rhode Island,100,Larceny,437,2015
+South Carolina,83,Larceny,820,2015
+South Dakota,92,Larceny,1035,2015
+Tennessee,96,Larceny,739,2015
+Texas,98,Larceny,596,2015
+Utah,95,Larceny,920,2015
+Vermont,93,Larceny,195,2015
+Virginia,95,Larceny,452,2015
+Washington,91,Larceny,649,2015
+West Virginia,58,Larceny,202,2015
+Wisconsin,95,Larceny,1195,2015
+Wyoming,89,Larceny,1033,2015
+United States,83,Drug abuse,298,2015
+Alabama,75,Drug abuse,61,2015
+Alaska,100,Drug abuse,271,2015
+Arizona,75,Drug abuse,517,2015
+Arkansas,90,Drug abuse,262,2015
+California,99,Drug abuse,165,2015
+Colorado,94,Drug abuse,559,2015
+Connecticut,92,Drug abuse,145,2015
+Delaware,100,Drug abuse,412,2015
+District of Columbia,0,Drug abuse,NA,2015
+Florida,100,Drug abuse,340,2015
+Georgia,76,Drug abuse,246,2015
+Hawaii,81,Drug abuse,293,2015
+Idaho,92,Drug abuse,453,2015
+Illinois,22,Drug abuse,844,2015
+Indiana,71,Drug abuse,218,2015
+Iowa,80,Drug abuse,311,2015
+Kansas,65,Drug abuse,343,2015
+Kentucky,99,Drug abuse,137,2015
+Louisiana,53,Drug abuse,394,2015
+Maine,100,Drug abuse,366,2015
+Maryland,76,Drug abuse,351,2015
+Massachusetts,91,Drug abuse,34,2015
+Michigan,93,Drug abuse,211,2015
+Minnesota,96,Drug abuse,337,2015
+Mississippi,40,Drug abuse,204,2015
+Missouri,88,Drug abuse,404,2015
+Montana,86,Drug abuse,292,2015
+Nebraska,62,Drug abuse,802,2015
+Nevada,100,Drug abuse,284,2015
+New Hampshire,92,Drug abuse,490,2015
+New Jersey,91,Drug abuse,374,2015
+New Mexico,76,Drug abuse,402,2015
+New York,53,Drug abuse,330,2015
+North Carolina,69,Drug abuse,178,2015
+North Dakota,98,Drug abuse,552,2015
+Ohio,71,Drug abuse,186,2015
+Oklahoma,91,Drug abuse,336,2015
+Oregon,48,Drug abuse,792,2015
+Pennsylvania,94,Drug abuse,278,2015
+Rhode Island,100,Drug abuse,82,2015
+South Carolina,83,Drug abuse,429,2015
+South Dakota,92,Drug abuse,1146,2015
+Tennessee,96,Drug abuse,352,2015
+Texas,98,Drug abuse,324,2015
+Utah,95,Drug abuse,444,2015
+Vermont,93,Drug abuse,54,2015
+Virginia,95,Drug abuse,249,2015
+Washington,91,Drug abuse,212,2015
+West Virginia,58,Drug abuse,130,2015
+Wisconsin,95,Drug abuse,516,2015
+Wyoming,89,Drug abuse,841,2015
+United States,83,Weapons,56,2015
+Alabama,75,Weapons,18,2015
+Alaska,100,Weapons,32,2015
+Arizona,75,Weapons,24,2015
+Arkansas,90,Weapons,31,2015
+California,99,Weapons,86,2015
+Colorado,94,Weapons,59,2015
+Connecticut,92,Weapons,46,2015
+Delaware,100,Weapons,93,2015
+District of Columbia,0,Weapons,NA,2015
+Florida,100,Weapons,46,2015
+Georgia,76,Weapons,54,2015
+Hawaii,81,Weapons,23,2015
+Idaho,92,Weapons,48,2015
+Illinois,22,Weapons,262,2015
+Indiana,71,Weapons,43,2015
+Iowa,80,Weapons,43,2015
+Kansas,65,Weapons,21,2015
+Kentucky,99,Weapons,22,2015
+Louisiana,53,Weapons,87,2015
+Maine,100,Weapons,9,2015
+Maryland,76,Weapons,102,2015
+Massachusetts,91,Weapons,29,2015
+Michigan,93,Weapons,31,2015
+Minnesota,96,Weapons,75,2015
+Mississippi,40,Weapons,74,2015
+Missouri,88,Weapons,52,2015
+Montana,86,Weapons,10,2015
+Nebraska,62,Weapons,40,2015
+Nevada,100,Weapons,42,2015
+New Hampshire,92,Weapons,6,2015
+New Jersey,91,Weapons,74,2015
+New Mexico,76,Weapons,47,2015
+New York,53,Weapons,42,2015
+North Carolina,69,Weapons,92,2015
+North Dakota,98,Weapons,34,2015
+Ohio,71,Weapons,33,2015
+Oklahoma,91,Weapons,52,2015
+Oregon,48,Weapons,32,2015
+Pennsylvania,94,Weapons,74,2015
+Rhode Island,100,Weapons,89,2015
+South Carolina,83,Weapons,81,2015
+South Dakota,92,Weapons,37,2015
+Tennessee,96,Weapons,65,2015
+Texas,98,Weapons,23,2015
+Utah,95,Weapons,62,2015
+Vermont,93,Weapons,15,2015
+Virginia,95,Weapons,36,2015
+Washington,91,Weapons,44,2015
+West Virginia,58,Weapons,18,2015
+Wisconsin,95,Weapons,127,2015
+Wyoming,89,Weapons,41,2015
+United States,86,Aggravated assault,85,2016
+Alabama,78,Aggravated assault,42,2016
+Alaska,100,Aggravated assault,191,2016
+Arizona,92,Aggravated assault,91,2016
+Arkansas,93,Aggravated assault,94,2016
+California,99,Aggravated assault,100,2016
+Colorado,90,Aggravated assault,88,2016
+Connecticut,99,Aggravated assault,62,2016
+Delaware,100,Aggravated assault,229,2016
+District of Columbia,0,Aggravated assault,NA,2016
+Florida,100,Aggravated assault,108,2016
+Georgia,79,Aggravated assault,73,2016
+Hawaii,100,Aggravated assault,61,2016
+Idaho,79,Aggravated assault,55,2016
+Illinois,22,Aggravated assault,85,2016
+Indiana,65,Aggravated assault,92,2016
+Iowa,90,Aggravated assault,140,2016
+Kansas,60,Aggravated assault,56,2016
+Kentucky,100,Aggravated assault,29,2016
+Louisiana,89,Aggravated assault,194,2016
+Maine,100,Aggravated assault,20,2016
+Maryland,86,Aggravated assault,150,2016
+Massachusetts,94,Aggravated assault,104,2016
+Michigan,98,Aggravated assault,75,2016
+Minnesota,95,Aggravated assault,79,2016
+Mississippi,46,Aggravated assault,20,2016
+Missouri,95,Aggravated assault,85,2016
+Montana,99,Aggravated assault,61,2016
+Nebraska,90,Aggravated assault,27,2016
+Nevada,100,Aggravated assault,205,2016
+New Hampshire,96,Aggravated assault,35,2016
+New Jersey,98,Aggravated assault,77,2016
+New Mexico,72,Aggravated assault,131,2016
+New York,54,Aggravated assault,78,2016
+North Carolina,62,Aggravated assault,58,2016
+North Dakota,99,Aggravated assault,61,2016
+Ohio,77,Aggravated assault,35,2016
+Oklahoma,95,Aggravated assault,70,2016
+Oregon,91,Aggravated assault,59,2016
+Pennsylvania,92,Aggravated assault,124,2016
+Rhode Island,100,Aggravated assault,55,2016
+South Carolina,97,Aggravated assault,68,2016
+South Dakota,91,Aggravated assault,110,2016
+Tennessee,97,Aggravated assault,148,2016
+Texas,97,Aggravated assault,66,2016
+Utah,92,Aggravated assault,38,2016
+Vermont,56,Aggravated assault,29,2016
+Virginia,98,Aggravated assault,32,2016
+Washington,89,Aggravated assault,62,2016
+West Virginia,68,Aggravated assault,30,2016
+Wisconsin,98,Aggravated assault,90,2016
+Wyoming,94,Aggravated assault,30,2016
+United States,86,Robbery,59,2016
+Alabama,78,Robbery,28,2016
+Alaska,100,Robbery,44,2016
+Arizona,92,Robbery,49,2016
+Arkansas,93,Robbery,31,2016
+California,99,Robbery,64,2016
+Colorado,90,Robbery,24,2016
+Connecticut,99,Robbery,45,2016
+Delaware,100,Robbery,129,2016
+District of Columbia,0,Robbery,NA,2016
+Florida,100,Robbery,82,2016
+Georgia,79,Robbery,57,2016
+Hawaii,100,Robbery,56,2016
+Idaho,79,Robbery,5,2016
+Illinois,22,Robbery,220,2016
+Indiana,65,Robbery,64,2016
+Iowa,90,Robbery,37,2016
+Kansas,60,Robbery,17,2016
+Kentucky,100,Robbery,49,2016
+Louisiana,89,Robbery,76,2016
+Maine,100,Robbery,6,2016
+Maryland,86,Robbery,204,2016
+Massachusetts,94,Robbery,30,2016
+Michigan,98,Robbery,28,2016
+Minnesota,95,Robbery,66,2016
+Mississippi,46,Robbery,57,2016
+Missouri,95,Robbery,57,2016
+Montana,99,Robbery,8,2016
+Nebraska,90,Robbery,29,2016
+Nevada,100,Robbery,123,2016
+New Hampshire,96,Robbery,20,2016
+New Jersey,98,Robbery,71,2016
+New Mexico,72,Robbery,12,2016
+New York,54,Robbery,69,2016
+North Carolina,62,Robbery,78,2016
+North Dakota,99,Robbery,8,2016
+Ohio,77,Robbery,33,2016
+Oklahoma,95,Robbery,29,2016
+Oregon,91,Robbery,20,2016
+Pennsylvania,92,Robbery,92,2016
+Rhode Island,100,Robbery,39,2016
+South Carolina,97,Robbery,54,2016
+South Dakota,91,Robbery,13,2016
+Tennessee,97,Robbery,55,2016
+Texas,97,Robbery,45,2016
+Utah,92,Robbery,14,2016
+Vermont,56,Robbery,0,2016
+Virginia,98,Robbery,47,2016
+Washington,89,Robbery,46,2016
+West Virginia,68,Robbery,5,2016
+Wisconsin,98,Robbery,75,2016
+Wyoming,94,Robbery,5,2016
+United States,86,Larceny,577,2016
+Alabama,78,Larceny,314,2016
+Alaska,100,Larceny,619,2016
+Arizona,92,Larceny,751,2016
+Arkansas,93,Larceny,607,2016
+California,99,Larceny,310,2016
+Colorado,90,Larceny,921,2016
+Connecticut,99,Larceny,527,2016
+Delaware,100,Larceny,770,2016
+District of Columbia,0,Larceny,NA,2016
+Florida,100,Larceny,944,2016
+Georgia,79,Larceny,616,2016
+Hawaii,100,Larceny,532,2016
+Idaho,79,Larceny,656,2016
+Illinois,22,Larceny,980,2016
+Indiana,65,Larceny,659,2016
+Iowa,90,Larceny,871,2016
+Kansas,60,Larceny,479,2016
+Kentucky,100,Larceny,323,2016
+Louisiana,89,Larceny,1062,2016
+Maine,100,Larceny,677,2016
+Maryland,86,Larceny,930,2016
+Massachusetts,94,Larceny,211,2016
+Michigan,98,Larceny,480,2016
+Minnesota,95,Larceny,913,2016
+Mississippi,46,Larceny,537,2016
+Missouri,95,Larceny,717,2016
+Montana,99,Larceny,858,2016
+Nebraska,90,Larceny,1268,2016
+Nevada,100,Larceny,466,2016
+New Hampshire,96,Larceny,334,2016
+New Jersey,98,Larceny,311,2016
+New Mexico,72,Larceny,667,2016
+New York,54,Larceny,526,2016
+North Carolina,62,Larceny,679,2016
+North Dakota,99,Larceny,884,2016
+Ohio,77,Larceny,450,2016
+Oklahoma,95,Larceny,561,2016
+Oregon,91,Larceny,622,2016
+Pennsylvania,92,Larceny,489,2016
+Rhode Island,100,Larceny,505,2016
+South Carolina,97,Larceny,692,2016
+South Dakota,91,Larceny,1199,2016
+Tennessee,97,Larceny,616,2016
+Texas,97,Larceny,475,2016
+Utah,92,Larceny,737,2016
+Vermont,56,Larceny,192,2016
+Virginia,98,Larceny,473,2016
+Washington,89,Larceny,496,2016
+West Virginia,68,Larceny,130,2016
+Wisconsin,98,Larceny,1058,2016
+Wyoming,94,Larceny,982,2016
+United States,86,Drug abuse,293,2016
+Alabama,78,Drug abuse,49,2016
+Alaska,100,Drug abuse,259,2016
+Arizona,92,Drug abuse,454,2016
+Arkansas,93,Drug abuse,260,2016
+California,99,Drug abuse,156,2016
+Colorado,90,Drug abuse,473,2016
+Connecticut,99,Drug abuse,161,2016
+Delaware,100,Drug abuse,367,2016
+District of Columbia,0,Drug abuse,NA,2016
+Florida,100,Drug abuse,298,2016
+Georgia,79,Drug abuse,264,2016
+Hawaii,100,Drug abuse,351,2016
+Idaho,79,Drug abuse,466,2016
+Illinois,22,Drug abuse,444,2016
+Indiana,65,Drug abuse,236,2016
+Iowa,90,Drug abuse,319,2016
+Kansas,60,Drug abuse,351,2016
+Kentucky,100,Drug abuse,110,2016
+Louisiana,89,Drug abuse,335,2016
+Maine,100,Drug abuse,318,2016
+Maryland,86,Drug abuse,414,2016
+Massachusetts,94,Drug abuse,37,2016
+Michigan,98,Drug abuse,221,2016
+Minnesota,95,Drug abuse,279,2016
+Mississippi,46,Drug abuse,179,2016
+Missouri,95,Drug abuse,412,2016
+Montana,99,Drug abuse,360,2016
+Nebraska,90,Drug abuse,695,2016
+Nevada,100,Drug abuse,277,2016
+New Hampshire,96,Drug abuse,527,2016
+New Jersey,98,Drug abuse,398,2016
+New Mexico,72,Drug abuse,319,2016
+New York,54,Drug abuse,330,2016
+North Carolina,62,Drug abuse,189,2016
+North Dakota,99,Drug abuse,624,2016
+Ohio,77,Drug abuse,195,2016
+Oklahoma,95,Drug abuse,328,2016
+Oregon,91,Drug abuse,525,2016
+Pennsylvania,92,Drug abuse,279,2016
+Rhode Island,100,Drug abuse,82,2016
+South Carolina,97,Drug abuse,435,2016
+South Dakota,91,Drug abuse,1015,2016
+Tennessee,97,Drug abuse,379,2016
+Texas,97,Drug abuse,337,2016
+Utah,92,Drug abuse,480,2016
+Vermont,56,Drug abuse,74,2016
+Virginia,98,Drug abuse,250,2016
+Washington,89,Drug abuse,214,2016
+West Virginia,68,Drug abuse,94,2016
+Wisconsin,98,Drug abuse,544,2016
+Wyoming,94,Drug abuse,956,2016
+United States,86,Weapons,57,2016
+Alabama,78,Weapons,24,2016
+Alaska,100,Weapons,30,2016
+Arizona,92,Weapons,32,2016
+Arkansas,93,Weapons,41,2016
+California,99,Weapons,84,2016
+Colorado,90,Weapons,57,2016
+Connecticut,99,Weapons,49,2016
+Delaware,100,Weapons,106,2016
+District of Columbia,0,Weapons,NA,2016
+Florida,100,Weapons,43,2016
+Georgia,79,Weapons,61,2016
+Hawaii,100,Weapons,12,2016
+Idaho,79,Weapons,49,2016
+Illinois,22,Weapons,244,2016
+Indiana,65,Weapons,55,2016
+Iowa,90,Weapons,41,2016
+Kansas,60,Weapons,28,2016
+Kentucky,100,Weapons,21,2016
+Louisiana,89,Weapons,103,2016
+Maine,100,Weapons,12,2016
+Maryland,86,Weapons,122,2016
+Massachusetts,94,Weapons,26,2016
+Michigan,98,Weapons,35,2016
+Minnesota,95,Weapons,72,2016
+Mississippi,46,Weapons,86,2016
+Missouri,95,Weapons,49,2016
+Montana,99,Weapons,6,2016
+Nebraska,90,Weapons,50,2016
+Nevada,100,Weapons,55,2016
+New Hampshire,96,Weapons,1,2016
+New Jersey,98,Weapons,74,2016
+New Mexico,72,Weapons,41,2016
+New York,54,Weapons,39,2016
+North Carolina,62,Weapons,91,2016
+North Dakota,99,Weapons,31,2016
+Ohio,77,Weapons,34,2016
+Oklahoma,95,Weapons,41,2016
+Oregon,91,Weapons,30,2016
+Pennsylvania,92,Weapons,69,2016
+Rhode Island,100,Weapons,138,2016
+South Carolina,97,Weapons,91,2016
+South Dakota,91,Weapons,59,2016
+Tennessee,97,Weapons,59,2016
+Texas,97,Weapons,27,2016
+Utah,92,Weapons,55,2016
+Vermont,56,Weapons,22,2016
+Virginia,98,Weapons,40,2016
+Washington,89,Weapons,37,2016
+West Virginia,68,Weapons,21,2016
+Wisconsin,98,Weapons,103,2016
+Wyoming,94,Weapons,67,2016
